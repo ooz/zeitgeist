@@ -4,317 +4,271 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### offenbar
+### 2027
 
-* [https://www.spiegel.de/panorama/luebeck-er-trug-nur-eine-einkaufstuete-nackter-mann-bittet-auf-polizeirevier-um-unterschlupf](https://www.spiegel.de/panorama/luebeck-er-trug-nur-eine-einkaufstuete-nackter-mann-bittet-auf-polizeirevier-um-unterschlupf-a-13a2599b-add7-4583-8221-b5daa20264fc#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-drosselt-offenbar-waffenlieferungen-an-russland](https://www.spiegel.de/ausland/nordkorea-drosselt-offenbar-waffenlieferungen-an-russland-a-83fe0597-7903-4556-b445-af08b3de5d1b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sap-erwaegt-den-abbau-von-mehr-als-10-000-stellen](https://www.spiegel.de/wirtschaft/sap-erwaegt-den-abbau-von-mehr-als-10-000-stellen-a-c4a7caff-a097-4ccb-867a-da1e469855fc#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-frau-bei-drohnenangriff-auf-st-petersburg-verletzt](https://www.spiegel.de/ausland/ukraine-russland-krieg-frau-bei-drohnenangriff-auf-st-petersburg-verletzt-a-4d604758-b994-470c-bd3c-46fcb14e157e#ref=rss)
-### putin
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern](https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern-a-54e239f7-8c45-4797-97f5-6bc162a1b8b8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter](https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter-a-91843340-2c0e-44d1-8fa2-0f57775ad0cb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst](https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst-a-a443d60d-a93e-4300-bae9-f4bcd3d9c995#ref=rss)
+### david
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler-a-b9dca374-b911-4380-a7a5-4c57a1f2bc21#ref=rss)
-* [https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin](https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin-a-b7fbe958-8a80-470f-836b-43abbb359b0f#ref=rss)
-### deutlich
+* [https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen](https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen-a-8b7abf64-47f4-45d3-86af-0747feaae99e#ref=rss)
+* [https://www.spiegel.de/kultur/kino/the-further-mis-adventures-of-cliff-booth-regisseur-david-fincher-nutzt-ki-um-arbeit-echter-menschen-zu-verbessern](https://www.spiegel.de/kultur/kino/the-further-mis-adventures-of-cliff-booth-regisseur-david-fincher-nutzt-ki-um-arbeit-echter-menschen-zu-verbessern-a-181f66c5-058a-4c9d-955a-4e9491ecf049#ref=rss)
+### haushalt
 
-* [https://www.spiegel.de/panorama/zugspitze-und-sauerland-starten-in-die-wintersaison](https://www.spiegel.de/panorama/zugspitze-und-sauerland-starten-in-die-wintersaison-a-17c338ee-7739-4e4e-ad61-b23d77ada0cf#ref=rss)
-* [https://www.spiegel.de/politik/zdf-politbarometer-afd-bleibt-vor-union-spd-legt-in-umfragen-zu](https://www.spiegel.de/politik/zdf-politbarometer-afd-bleibt-vor-union-spd-legt-in-umfragen-zu-a-5b5a576d-0fe0-49e4-96e5-ea0c6f468236#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt](https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt-a-05cb5c4f-7ca5-4464-819f-e67db62bad1f#ref=rss)
-* [https://www.spiegel.de/politik/rente-thorsten-frei-dringt-auf-einigung-und-mahnt-verantwortung-fuer-das-land-an](https://www.spiegel.de/politik/rente-thorsten-frei-dringt-auf-einigung-und-mahnt-verantwortung-fuer-das-land-an-a-07e8756d-edb9-4db9-9c8c-8d23eb6a2010#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt](https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt-a-dc65b401-a2e6-4976-945a-49c305dfc989#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-herbstkonjunktur-kann-abwaertstrend-nicht-bremsen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-herbstkonjunktur-kann-abwaertstrend-nicht-bremsen-a-1e340c77-d333-4766-b96e-ab7f1d5a2976#ref=rss)
-* [https://www.spiegel.de/wirtschaft/argentinien-zentralbank-darf-staat-keine-kredite-mehr-gewaehren](https://www.spiegel.de/wirtschaft/argentinien-zentralbank-darf-staat-keine-kredite-mehr-gewaehren-a-f9704e1e-1596-40b6-a8b6-04dbaa4af278#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler-a-b9dca374-b911-4380-a7a5-4c57a1f2bc21#ref=rss)
-* [https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin](https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin-a-b7fbe958-8a80-470f-836b-43abbb359b0f#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/sap-erwaegt-den-abbau-von-mehr-als-10-000-stellen](https://www.spiegel.de/wirtschaft/sap-erwaegt-den-abbau-von-mehr-als-10-000-stellen-a-c4a7caff-a097-4ccb-867a-da1e469855fc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/argentinien-zentralbank-darf-staat-keine-kredite-mehr-gewaehren](https://www.spiegel.de/wirtschaft/argentinien-zentralbank-darf-staat-keine-kredite-mehr-gewaehren-a-f9704e1e-1596-40b6-a8b6-04dbaa4af278#ref=rss)
-* [https://www.spiegel.de/politik/rente-thorsten-frei-dringt-auf-einigung-und-mahnt-verantwortung-fuer-das-land-an](https://www.spiegel.de/politik/rente-thorsten-frei-dringt-auf-einigung-und-mahnt-verantwortung-fuer-das-land-an-a-07e8756d-edb9-4db9-9c8c-8d23eb6a2010#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-schicksalsjahr-des-cdu-kanzlers-beginnt-jetzt](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-schicksalsjahr-des-cdu-kanzlers-beginnt-jetzt-a-425929cf-a265-495d-8211-8c82318c8aa1#ref=rss)
-* [https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin](https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin-a-b7fbe958-8a80-470f-836b-43abbb359b0f#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-schicksalsjahr-des-cdu-kanzlers-beginnt-jetzt](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-schicksalsjahr-des-cdu-kanzlers-beginnt-jetzt-a-425929cf-a265-495d-8211-8c82318c8aa1#ref=rss)
-* [https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin](https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin-a-b7fbe958-8a80-470f-836b-43abbb359b0f#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-schicksalsjahr-des-cdu-kanzlers-beginnt-jetzt](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-schicksalsjahr-des-cdu-kanzlers-beginnt-jetzt-a-425929cf-a265-495d-8211-8c82318c8aa1#ref=rss)
-* [https://www.spiegel.de/politik/zdf-politbarometer-afd-bleibt-vor-union-spd-legt-in-umfragen-zu](https://www.spiegel.de/politik/zdf-politbarometer-afd-bleibt-vor-union-spd-legt-in-umfragen-zu-a-5b5a576d-0fe0-49e4-96e5-ea0c6f468236#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/netzwelt/vodafone-klausel-unwirksam-121-000-kunden-fordern-ihr-geld-zurueck](https://www.spiegel.de/netzwelt/vodafone-klausel-unwirksam-121-000-kunden-fordern-ihr-geld-zurueck-a-055809e6-cc04-4e85-9e74-8dbc3f41882e#ref=rss)
-* [https://www.spiegel.de/politik/iran-kuwait-attacke-mit-zwei-toten-regime-weist-verantwortung-zurueck](https://www.spiegel.de/politik/iran-kuwait-attacke-mit-zwei-toten-regime-weist-verantwortung-zurueck-a-7ab9df93-311f-4b40-a72d-aea59f484358#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/zdf-politbarometer-afd-bleibt-vor-union-spd-legt-in-umfragen-zu](https://www.spiegel.de/politik/zdf-politbarometer-afd-bleibt-vor-union-spd-legt-in-umfragen-zu-a-5b5a576d-0fe0-49e4-96e5-ea0c6f468236#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/politik/zdf-politbarometer-afd-bleibt-vor-union-spd-legt-in-umfragen-zu](https://www.spiegel.de/politik/zdf-politbarometer-afd-bleibt-vor-union-spd-legt-in-umfragen-zu-a-5b5a576d-0fe0-49e4-96e5-ea0c6f468236#ref=rss)
-* [https://www.spiegel.de/panorama/frankreich-rinderknochen-bleibt-krokodil-im-hals-stecken-feuerwehr-rueckt-an](https://www.spiegel.de/panorama/frankreich-rinderknochen-bleibt-krokodil-im-hals-stecken-feuerwehr-rueckt-an-a-d7a9b10e-d993-482d-a386-1469a5c6385c#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/zdf-politbarometer-afd-bleibt-vor-union-spd-legt-in-umfragen-zu](https://www.spiegel.de/politik/zdf-politbarometer-afd-bleibt-vor-union-spd-legt-in-umfragen-zu-a-5b5a576d-0fe0-49e4-96e5-ea0c6f468236#ref=rss)
-* [https://www.spiegel.de/politik/spd-krise-juso-chef-kritisiert-unklare-linie-der-partei](https://www.spiegel.de/politik/spd-krise-juso-chef-kritisiert-unklare-linie-der-partei-a-bfc20e85-6016-4163-9b58-c276fe22d876#ref=rss)
-### musiala
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt](https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt-a-05cb5c4f-7ca5-4464-819f-e67db62bad1f#ref=rss)
-### verantwortung
-
-* [https://www.spiegel.de/politik/rente-thorsten-frei-dringt-auf-einigung-und-mahnt-verantwortung-fuer-das-land-an](https://www.spiegel.de/politik/rente-thorsten-frei-dringt-auf-einigung-und-mahnt-verantwortung-fuer-das-land-an-a-07e8756d-edb9-4db9-9c8c-8d23eb6a2010#ref=rss)
-* [https://www.spiegel.de/politik/iran-kuwait-attacke-mit-zwei-toten-regime-weist-verantwortung-zurueck](https://www.spiegel.de/politik/iran-kuwait-attacke-mit-zwei-toten-regime-weist-verantwortung-zurueck-a-7ab9df93-311f-4b40-a72d-aea59f484358#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern](https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern-a-54e239f7-8c45-4797-97f5-6bc162a1b8b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar-a-cdfd726b-3872-4e30-9f8b-dbc800c7dec5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst](https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst-a-a443d60d-a93e-4300-bae9-f4bcd3d9c995#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/politik/iran-kuwait-attacke-mit-zwei-toten-regime-weist-verantwortung-zurueck](https://www.spiegel.de/politik/iran-kuwait-attacke-mit-zwei-toten-regime-weist-verantwortung-zurueck-a-7ab9df93-311f-4b40-a72d-aea59f484358#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-fiaker-vor-dem-aus-wien-streitet-ueber-pferdekutschen](https://www.spiegel.de/ausland/oesterreich-fiaker-vor-dem-aus-wien-streitet-ueber-pferdekutschen-a-0b2962d3-7a87-4271-8421-3a8e81234c70#ref=rss)
-### arbeitsmarkt
+* [https://www.spiegel.de/kultur/musik/berlin-zwei-compact-journalisten-bei-youtube-awards-angegriffen](https://www.spiegel.de/kultur/musik/berlin-zwei-compact-journalisten-bei-youtube-awards-angegriffen-a-1eb51c98-15db-4c3f-b8fd-2e6dc52c64d9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt](https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt-a-0b326ebb-3bb7-4445-9c4b-cc37642cd7de#ref=rss)
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus](https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus-a-ceac02f8-2a37-4cda-90dc-77d45c926197#ref=rss)
+### sohn
 
-* [https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt](https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt-a-dc65b401-a2e6-4976-945a-49c305dfc989#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-herbstkonjunktur-kann-abwaertstrend-nicht-bremsen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-herbstkonjunktur-kann-abwaertstrend-nicht-bremsen-a-1e340c77-d333-4766-b96e-ab7f1d5a2976#ref=rss)
-### viele
+* [https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann](https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann-a-3974399e-ec79-4064-bc29-60cb02a3b9e0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt](https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt-a-0b326ebb-3bb7-4445-9c4b-cc37642cd7de#ref=rss)
+### haft
 
-* [https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt](https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt-a-dc65b401-a2e6-4976-945a-49c305dfc989#ref=rss)
-### langzeitarbeitslose
+* [https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann](https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann-a-3974399e-ec79-4064-bc29-60cb02a3b9e0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft](https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651#ref=rss)
+### linke
 
-* [https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt](https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt-a-dc65b401-a2e6-4976-945a-49c305dfc989#ref=rss)
-### jobcenter
+* [https://www.spiegel.de/politik/deutschland/gruene-und-linke-fordern-wegen-flug-transparenz-von-merz](https://www.spiegel.de/politik/deutschland/gruene-und-linke-fordern-wegen-flug-transparenz-von-merz-a-1ed0603a-a6b1-4dad-85c9-7d505a740195#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-fordert-heidi-reichinnek-auf-sich-von-linken-blockieren-zu-distanzieren](https://www.spiegel.de/politik/deutschland/julia-kloeckner-fordert-heidi-reichinnek-auf-sich-von-linken-blockieren-zu-distanzieren-a-fd433eed-c03a-4b17-a255-805857ed8319#ref=rss)
+### merz
 
-* [https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt](https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt-a-dc65b401-a2e6-4976-945a-49c305dfc989#ref=rss)
-### geld
+* [https://www.spiegel.de/politik/deutschland/gruene-und-linke-fordern-wegen-flug-transparenz-von-merz](https://www.spiegel.de/politik/deutschland/gruene-und-linke-fordern-wegen-flug-transparenz-von-merz-a-1ed0603a-a6b1-4dad-85c9-7d505a740195#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar-a-cdfd726b-3872-4e30-9f8b-dbc800c7dec5#ref=rss)
+### wetten
 
-* [https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt](https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt-a-dc65b401-a2e6-4976-945a-49c305dfc989#ref=rss)
-* [https://www.spiegel.de/netzwelt/vodafone-klausel-unwirksam-121-000-kunden-fordern-ihr-geld-zurueck](https://www.spiegel.de/netzwelt/vodafone-klausel-unwirksam-121-000-kunden-fordern-ihr-geld-zurueck-a-055809e6-cc04-4e85-9e74-8dbc3f41882e#ref=rss)
-### aufgaben
+* [https://www.spiegel.de/kultur/tv/wetten-dass-nina-chuba-und-herbert-groenemeyer-kommen-zu-ein-bagger-vielleicht-auch](https://www.spiegel.de/kultur/tv/wetten-dass-nina-chuba-und-herbert-groenemeyer-kommen-zu-ein-bagger-vielleicht-auch-a-62307cbf-090f-458c-8d5c-0e03ae9eb2a2#ref=rss)
+### erste
 
-* [https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt](https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt-a-dc65b401-a2e6-4976-945a-49c305dfc989#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-schicksalsjahr-des-cdu-kanzlers-beginnt-jetzt](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-schicksalsjahr-des-cdu-kanzlers-beginnt-jetzt-a-425929cf-a265-495d-8211-8c82318c8aa1#ref=rss)
-### dazu
+* [https://www.spiegel.de/kultur/tv/wetten-dass-nina-chuba-und-herbert-groenemeyer-kommen-zu-ein-bagger-vielleicht-auch](https://www.spiegel.de/kultur/tv/wetten-dass-nina-chuba-und-herbert-groenemeyer-kommen-zu-ein-bagger-vielleicht-auch-a-62307cbf-090f-458c-8d5c-0e03ae9eb2a2#ref=rss)
+* [https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied](https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied-a-5fbe7280-d4cc-4fd9-b5ca-9eb94d6968ce#ref=rss)
+### benko
 
-* [https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt](https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt-a-dc65b401-a2e6-4976-945a-49c305dfc989#ref=rss)
-* [https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-di](https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-diesen-tagen-urlaub-nehmen-a-1296909.html#ref=rss)
-### oft
+* [https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft](https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651#ref=rss)
+### oberlandesgericht
 
-* [https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt](https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt-a-dc65b401-a2e6-4976-945a-49c305dfc989#ref=rss)
-* [https://www.spiegel.de/politik/iran-kuwait-attacke-mit-zwei-toten-regime-weist-verantwortung-zurueck](https://www.spiegel.de/politik/iran-kuwait-attacke-mit-zwei-toten-regime-weist-verantwortung-zurueck-a-7ab9df93-311f-4b40-a72d-aea59f484358#ref=rss)
-### wenig
+* [https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft](https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche](https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche-a-1642d5d5-9ff0-4170-a85d-f224a9b9e54d#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt](https://www.spiegel.de/karriere/arbeitsmarkt-viele-langzeitarbeitslose-fuehlen-sich-vom-jobcenter-falsch-vermittelt-a-dc65b401-a2e6-4976-945a-49c305dfc989#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler-a-b9dca374-b911-4380-a7a5-4c57a1f2bc21#ref=rss)
-### gericht
+* [https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied](https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied-a-5fbe7280-d4cc-4fd9-b5ca-9eb94d6968ce#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-deutschland-diese-sechs-sollen-zu-den-besten-europas-gehoeren](https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-deutschland-diese-sechs-sollen-zu-den-besten-europas-gehoeren-a-783bdd55-5f30-4671-8f8a-9e98cabd4570#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/sauter-klavierbauer-stellt-insolvenzantrag](https://www.spiegel.de/wirtschaft/unternehmen/sauter-klavierbauer-stellt-insolvenzantrag-a-a3df64ca-76e0-4225-8baf-a40c22fb35f0#ref=rss)
+### geschichte
 
-* [https://www.spiegel.de/panorama/justiz/australien-pilzmoerderin-zieht-gegen-lebenslange-haft-vor-oberstes-gericht](https://www.spiegel.de/panorama/justiz/australien-pilzmoerderin-zieht-gegen-lebenslange-haft-vor-oberstes-gericht-a-fbc3845f-2612-41f1-bf66-7fcf3b5d1910#ref=rss)
-### polizeirevier
+* [https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst](https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst-a-a443d60d-a93e-4300-bae9-f4bcd3d9c995#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-geschichte-wie-das-shopping-zum-kontaktsport-wurde](https://www.spiegel.de/wirtschaft/service/black-friday-geschichte-wie-das-shopping-zum-kontaktsport-wurde-a-f7053732-7607-4b87-9200-83a2582bac3b#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-vierfach-gott-ilia-malinin-bricht-kurzprogramm-weltrekord](https://www.spiegel.de/sport/wintersport/eiskunstlauf-vierfach-gott-ilia-malinin-bricht-kurzprogramm-weltrekord-a-f9728e6e-fcea-4733-afd9-cbfc9bc0732d#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/panorama/luebeck-er-trug-nur-eine-einkaufstuete-nackter-mann-bittet-auf-polizeirevier-um-unterschlupf](https://www.spiegel.de/panorama/luebeck-er-trug-nur-eine-einkaufstuete-nackter-mann-bittet-auf-polizeirevier-um-unterschlupf-a-13a2599b-add7-4583-8221-b5daa20264fc#ref=rss)
-### nordkorea
+* [https://www.spiegel.de/kultur/musik/berlin-zwei-compact-journalisten-bei-youtube-awards-angegriffen](https://www.spiegel.de/kultur/musik/berlin-zwei-compact-journalisten-bei-youtube-awards-angegriffen-a-1eb51c98-15db-4c3f-b8fd-2e6dc52c64d9#ref=rss)
+### youtubeawards
 
-* [https://www.spiegel.de/ausland/nordkorea-drosselt-offenbar-waffenlieferungen-an-russland](https://www.spiegel.de/ausland/nordkorea-drosselt-offenbar-waffenlieferungen-an-russland-a-83fe0597-7903-4556-b445-af08b3de5d1b#ref=rss)
-### ukrainische
+* [https://www.spiegel.de/kultur/musik/berlin-zwei-compact-journalisten-bei-youtube-awards-angegriffen](https://www.spiegel.de/kultur/musik/berlin-zwei-compact-journalisten-bei-youtube-awards-angegriffen-a-1eb51c98-15db-4c3f-b8fd-2e6dc52c64d9#ref=rss)
+### israel
 
-* [https://www.spiegel.de/ausland/nordkorea-drosselt-offenbar-waffenlieferungen-an-russland](https://www.spiegel.de/ausland/nordkorea-drosselt-offenbar-waffenlieferungen-an-russland-a-83fe0597-7903-4556-b445-af08b3de5d1b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler-a-b9dca374-b911-4380-a7a5-4c57a1f2bc21#ref=rss)
-### berichtet
+* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-kritisiert-likud-von-benjamin-netanyahu-wegen-koalitionsgespraechen](https://www.spiegel.de/ausland/israel-gadi-eisenkot-kritisiert-likud-von-benjamin-netanyahu-wegen-koalitionsgespraechen-a-e8db144e-6357-4c68-8080-d87bf93c7a3c#ref=rss)
+### gadi
 
-* [https://www.spiegel.de/ausland/nordkorea-drosselt-offenbar-waffenlieferungen-an-russland](https://www.spiegel.de/ausland/nordkorea-drosselt-offenbar-waffenlieferungen-an-russland-a-83fe0597-7903-4556-b445-af08b3de5d1b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-auch-diese-beziehung-einer-fuehrungskraft-wirft-fragen-auf-womoeglich-verbindungen-nach-china](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-auch-diese-beziehung-einer-fuehrungskraft-wirft-fragen-auf-womoeglich-verbindungen-nach-china-a-7f83f64a-dd44-44b2-abdb-b3ece72cd6fb#ref=rss)
-### ukrainekrieg
+* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-kritisiert-likud-von-benjamin-netanyahu-wegen-koalitionsgespraechen](https://www.spiegel.de/ausland/israel-gadi-eisenkot-kritisiert-likud-von-benjamin-netanyahu-wegen-koalitionsgespraechen-a-e8db144e-6357-4c68-8080-d87bf93c7a3c#ref=rss)
+### eisenkot
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler-a-b9dca374-b911-4380-a7a5-4c57a1f2bc21#ref=rss)
-* [https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin](https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin-a-b7fbe958-8a80-470f-836b-43abbb359b0f#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-kritisiert-likud-von-benjamin-netanyahu-wegen-koalitionsgespraechen](https://www.spiegel.de/ausland/israel-gadi-eisenkot-kritisiert-likud-von-benjamin-netanyahu-wegen-koalitionsgespraechen-a-e8db144e-6357-4c68-8080-d87bf93c7a3c#ref=rss)
+### scheitern
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler-a-b9dca374-b911-4380-a7a5-4c57a1f2bc21#ref=rss)
-### trump
+* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-kritisiert-likud-von-benjamin-netanyahu-wegen-koalitionsgespraechen](https://www.spiegel.de/ausland/israel-gadi-eisenkot-kritisiert-likud-von-benjamin-netanyahu-wegen-koalitionsgespraechen-a-e8db144e-6357-4c68-8080-d87bf93c7a3c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/bilanz-der-klimakonferenz-in-antalya-war-das-ein-scheitern](https://www.spiegel.de/wissenschaft/bilanz-der-klimakonferenz-in-antalya-war-das-ein-scheitern-a-76f7b87f-327b-48cc-a183-e39a1309d8fb#ref=rss)
+### lisnard
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler-a-b9dca374-b911-4380-a7a5-4c57a1f2bc21#ref=rss)
-* [https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin](https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin-a-b7fbe958-8a80-470f-836b-43abbb359b0f#ref=rss)
-### kremlchef
+* [https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen](https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen-a-8b7abf64-47f4-45d3-86af-0747feaae99e#ref=rss)
+### marine
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler-a-b9dca374-b911-4380-a7a5-4c57a1f2bc21#ref=rss)
-* [https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin](https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin-a-b7fbe958-8a80-470f-836b-43abbb359b0f#ref=rss)
-### china
+* [https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen](https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen-a-8b7abf64-47f4-45d3-86af-0747feaae99e#ref=rss)
+### le
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler-a-b9dca374-b911-4380-a7a5-4c57a1f2bc21#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-auch-diese-beziehung-einer-fuehrungskraft-wirft-fragen-auf-womoeglich-verbindungen-nach-china](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-auch-diese-beziehung-einer-fuehrungskraft-wirft-fragen-auf-womoeglich-verbindungen-nach-china-a-7f83f64a-dd44-44b2-abdb-b3ece72cd6fb#ref=rss)
-### kyjiw
+* [https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen](https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen-a-8b7abf64-47f4-45d3-86af-0747feaae99e#ref=rss)
+### pen
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler-a-b9dca374-b911-4380-a7a5-4c57a1f2bc21#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-frau-bei-drohnenangriff-auf-st-petersburg-verletzt](https://www.spiegel.de/ausland/ukraine-russland-krieg-frau-bei-drohnenangriff-auf-st-petersburg-verletzt-a-4d604758-b994-470c-bd3c-46fcb14e157e#ref=rss)
-### präsident
+* [https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen](https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen-a-8b7abf64-47f4-45d3-86af-0747feaae99e#ref=rss)
+### el
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-vergleicht-wladimir-putin-mit-hitler-a-b9dca374-b911-4380-a7a5-4c57a1f2bc21#ref=rss)
-* [https://www.spiegel.de/wirtschaft/argentinien-zentralbank-darf-staat-keine-kredite-mehr-gewaehren](https://www.spiegel.de/wirtschaft/argentinien-zentralbank-darf-staat-keine-kredite-mehr-gewaehren-a-f9704e1e-1596-40b6-a8b6-04dbaa4af278#ref=rss)
+* [https://www.spiegel.de/ausland/el-nino-uno-warnt-vor-verschaerfung-der-globalen-hungerkrise](https://www.spiegel.de/ausland/el-nino-uno-warnt-vor-verschaerfung-der-globalen-hungerkrise-a-717ca946-4e3d-42d0-930c-0275b5ebecdb#ref=rss)
+### niño
+
+* [https://www.spiegel.de/ausland/el-nino-uno-warnt-vor-verschaerfung-der-globalen-hungerkrise](https://www.spiegel.de/ausland/el-nino-uno-warnt-vor-verschaerfung-der-globalen-hungerkrise-a-717ca946-4e3d-42d0-930c-0275b5ebecdb#ref=rss)
+### witten
+
+* [https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann](https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann-a-3974399e-ec79-4064-bc29-60cb02a3b9e0#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann](https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann-a-3974399e-ec79-4064-bc29-60cb02a3b9e0#ref=rss)
+### verletzte
+
+* [https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann](https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann-a-3974399e-ec79-4064-bc29-60cb02a3b9e0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-geschichte-wie-das-shopping-zum-kontaktsport-wurde](https://www.spiegel.de/wirtschaft/service/black-friday-geschichte-wie-das-shopping-zum-kontaktsport-wurde-a-f7053732-7607-4b87-9200-83a2582bac3b#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann](https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann-a-3974399e-ec79-4064-bc29-60cb02a3b9e0#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/biathlon-karriere-mit-kind-janina-hettich-walz-ueber-kosten-und-krankheitsangst](https://www.spiegel.de/sport/wintersport/biathlon-karriere-mit-kind-janina-hettich-walz-ueber-kosten-und-krankheitsangst-a-e52767c9-9570-4ee4-8444-09f2547b1a51#ref=rss)
 ### sap
 
-* [https://www.spiegel.de/wirtschaft/sap-erwaegt-den-abbau-von-mehr-als-10-000-stellen](https://www.spiegel.de/wirtschaft/sap-erwaegt-den-abbau-von-mehr-als-10-000-stellen-a-c4a7caff-a097-4ccb-867a-da1e469855fc#ref=rss)
-### bremen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern](https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern-a-54e239f7-8c45-4797-97f5-6bc162a1b8b8#ref=rss)
+### wadephul
 
-* [https://www.spiegel.de/panorama/justiz/bremen-gefaehrlicher-straftaeter-nach-flucht-aus-psychiatrie-festgenommen](https://www.spiegel.de/panorama/justiz/bremen-gefaehrlicher-straftaeter-nach-flucht-aus-psychiatrie-festgenommen-a-b1ed73c2-4f20-43c0-b462-4efd60297dbb#ref=rss)
-### flucht
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern](https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern-a-54e239f7-8c45-4797-97f5-6bc162a1b8b8#ref=rss)
+### jason
 
-* [https://www.spiegel.de/panorama/justiz/bremen-gefaehrlicher-straftaeter-nach-flucht-aus-psychiatrie-festgenommen](https://www.spiegel.de/panorama/justiz/bremen-gefaehrlicher-straftaeter-nach-flucht-aus-psychiatrie-festgenommen-a-b1ed73c2-4f20-43c0-b462-4efd60297dbb#ref=rss)
-### psychiatrie
+* [https://www.spiegel.de/kultur/jason-arday-kein-plagiator-universitaet-rehabilitiert-verstorbenen-professor](https://www.spiegel.de/kultur/jason-arday-kein-plagiator-universitaet-rehabilitiert-verstorbenen-professor-a-971aea4c-cb9c-4f50-9748-527f1a6e3b4e#ref=rss)
+### arday
 
-* [https://www.spiegel.de/panorama/justiz/bremen-gefaehrlicher-straftaeter-nach-flucht-aus-psychiatrie-festgenommen](https://www.spiegel.de/panorama/justiz/bremen-gefaehrlicher-straftaeter-nach-flucht-aus-psychiatrie-festgenommen-a-b1ed73c2-4f20-43c0-b462-4efd60297dbb#ref=rss)
-### november
+* [https://www.spiegel.de/kultur/jason-arday-kein-plagiator-universitaet-rehabilitiert-verstorbenen-professor](https://www.spiegel.de/kultur/jason-arday-kein-plagiator-universitaet-rehabilitiert-verstorbenen-professor-a-971aea4c-cb9c-4f50-9748-527f1a6e3b4e#ref=rss)
+### rehabilitiert
 
-* [https://www.spiegel.de/panorama/justiz/bremen-gefaehrlicher-straftaeter-nach-flucht-aus-psychiatrie-festgenommen](https://www.spiegel.de/panorama/justiz/bremen-gefaehrlicher-straftaeter-nach-flucht-aus-psychiatrie-festgenommen-a-b1ed73c2-4f20-43c0-b462-4efd60297dbb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-herbstkonjunktur-kann-abwaertstrend-nicht-bremsen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-herbstkonjunktur-kann-abwaertstrend-nicht-bremsen-a-1e340c77-d333-4766-b96e-ab7f1d5a2976#ref=rss)
-### frau
+* [https://www.spiegel.de/kultur/jason-arday-kein-plagiator-universitaet-rehabilitiert-verstorbenen-professor](https://www.spiegel.de/kultur/jason-arday-kein-plagiator-universitaet-rehabilitiert-verstorbenen-professor-a-971aea4c-cb9c-4f50-9748-527f1a6e3b4e#ref=rss)
+### professor
 
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-frau-bei-drohnenangriff-auf-st-petersburg-verletzt](https://www.spiegel.de/ausland/ukraine-russland-krieg-frau-bei-drohnenangriff-auf-st-petersburg-verletzt-a-4d604758-b994-470c-bd3c-46fcb14e157e#ref=rss)
-### petersburg
+* [https://www.spiegel.de/kultur/jason-arday-kein-plagiator-universitaet-rehabilitiert-verstorbenen-professor](https://www.spiegel.de/kultur/jason-arday-kein-plagiator-universitaet-rehabilitiert-verstorbenen-professor-a-971aea4c-cb9c-4f50-9748-527f1a6e3b4e#ref=rss)
+* [https://www.spiegel.de/ausland/serbien-studierendenliste-nominiert-chemieprofessor-als-praesidentschaftskandidat](https://www.spiegel.de/ausland/serbien-studierendenliste-nominiert-chemieprofessor-als-praesidentschaftskandidat-a-a6382c22-ad83-40da-ab1c-4e60b160df20#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-frau-bei-drohnenangriff-auf-st-petersburg-verletzt](https://www.spiegel.de/ausland/ukraine-russland-krieg-frau-bei-drohnenangriff-auf-st-petersburg-verletzt-a-4d604758-b994-470c-bd3c-46fcb14e157e#ref=rss)
-### verletzt
+* [https://www.spiegel.de/politik/deutschland/gruene-und-linke-fordern-wegen-flug-transparenz-von-merz](https://www.spiegel.de/politik/deutschland/gruene-und-linke-fordern-wegen-flug-transparenz-von-merz-a-1ed0603a-a6b1-4dad-85c9-7d505a740195#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar-a-cdfd726b-3872-4e30-9f8b-dbc800c7dec5#ref=rss)
+### politische
 
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-frau-bei-drohnenangriff-auf-st-petersburg-verletzt](https://www.spiegel.de/ausland/ukraine-russland-krieg-frau-bei-drohnenangriff-auf-st-petersburg-verletzt-a-4d604758-b994-470c-bd3c-46fcb14e157e#ref=rss)
-### angaben
+* [https://www.spiegel.de/wissenschaft/bilanz-der-klimakonferenz-in-antalya-war-das-ein-scheitern](https://www.spiegel.de/wissenschaft/bilanz-der-klimakonferenz-in-antalya-war-das-ein-scheitern-a-76f7b87f-327b-48cc-a183-e39a1309d8fb#ref=rss)
+* [https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise](https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise-a-e8aad6e9-045d-4255-abdf-71bf6485fad5#ref=rss)
+### costa
 
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-frau-bei-drohnenangriff-auf-st-petersburg-verletzt](https://www.spiegel.de/ausland/ukraine-russland-krieg-frau-bei-drohnenangriff-auf-st-petersburg-verletzt-a-4d604758-b994-470c-bd3c-46fcb14e157e#ref=rss)
-* [https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin](https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin-a-b7fbe958-8a80-470f-836b-43abbb359b0f#ref=rss)
-### fragen
+* [https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise](https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise-a-e8aad6e9-045d-4255-abdf-71bf6485fad5#ref=rss)
+### rica
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-auch-diese-beziehung-einer-fuehrungskraft-wirft-fragen-auf-womoeglich-verbindungen-nach-china](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-auch-diese-beziehung-einer-fuehrungskraft-wirft-fragen-auf-womoeglich-verbindungen-nach-china-a-7f83f64a-dd44-44b2-abdb-b3ece72cd6fb#ref=rss)
-* [https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-di](https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-diesen-tagen-urlaub-nehmen-a-1296909.html#ref=rss)
-### herbstkonjunktur
+* [https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise](https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise-a-e8aad6e9-045d-4255-abdf-71bf6485fad5#ref=rss)
+### einreise
 
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-herbstkonjunktur-kann-abwaertstrend-nicht-bremsen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-herbstkonjunktur-kann-abwaertstrend-nicht-bremsen-a-1e340c77-d333-4766-b96e-ab7f1d5a2976#ref=rss)
-### zahl
+* [https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise](https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise-a-e8aad6e9-045d-4255-abdf-71bf6485fad5#ref=rss)
+### schmetterling
 
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-herbstkonjunktur-kann-abwaertstrend-nicht-bremsen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-herbstkonjunktur-kann-abwaertstrend-nicht-bremsen-a-1e340c77-d333-4766-b96e-ab7f1d5a2976#ref=rss)
-* [https://www.spiegel.de/wirtschaft/geldanlage-es-kommt-auch-auf-die-zahl-hinter-dem-komma-an](https://www.spiegel.de/wirtschaft/geldanlage-es-kommt-auch-auf-die-zahl-hinter-dem-komma-an-a-c5e1071c-2310-4298-b4bb-c5aa6f4d64be#ref=rss)
-### beginnt
+* [https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter](https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter-a-91843340-2c0e-44d1-8fa2-0f57775ad0cb#ref=rss)
+### jahres
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-schicksalsjahr-des-cdu-kanzlers-beginnt-jetzt](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-schicksalsjahr-des-cdu-kanzlers-beginnt-jetzt-a-425929cf-a265-495d-8211-8c82318c8aa1#ref=rss)
-* [https://www.spiegel.de/panorama/zugspitze-und-sauerland-starten-in-die-wintersaison](https://www.spiegel.de/panorama/zugspitze-und-sauerland-starten-in-die-wintersaison-a-17c338ee-7739-4e4e-ad61-b23d77ada0cf#ref=rss)
-### spd
+* [https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter](https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter-a-91843340-2c0e-44d1-8fa2-0f57775ad0cb#ref=rss)
+### dickkopffalter
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-schicksalsjahr-des-cdu-kanzlers-beginnt-jetzt](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-schicksalsjahr-des-cdu-kanzlers-beginnt-jetzt-a-425929cf-a265-495d-8211-8c82318c8aa1#ref=rss)
-* [https://www.spiegel.de/politik/zdf-politbarometer-afd-bleibt-vor-union-spd-legt-in-umfragen-zu](https://www.spiegel.de/politik/zdf-politbarometer-afd-bleibt-vor-union-spd-legt-in-umfragen-zu-a-5b5a576d-0fe0-49e4-96e5-ea0c6f468236#ref=rss)
-### christian
+* [https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter](https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter-a-91843340-2c0e-44d1-8fa2-0f57775ad0cb#ref=rss)
+### rené
 
-* [https://www.spiegel.de/sport/fussball/conference-league-sc-freiburg-kapitaen-christian-guenter-fordert-rote-karte-fuer-elfmeterpunkt-sabotage](https://www.spiegel.de/sport/fussball/conference-league-sc-freiburg-kapitaen-christian-guenter-fordert-rote-karte-fuer-elfmeterpunkt-sabotage-a-3054e28d-9f7d-4b45-b598-978cd0f5b52f#ref=rss)
-### günter
+* [https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft](https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/sport/fussball/conference-league-sc-freiburg-kapitaen-christian-guenter-fordert-rote-karte-fuer-elfmeterpunkt-sabotage](https://www.spiegel.de/sport/fussball/conference-league-sc-freiburg-kapitaen-christian-guenter-fordert-rote-karte-fuer-elfmeterpunkt-sabotage-a-3054e28d-9f7d-4b45-b598-978cd0f5b52f#ref=rss)
-### fordert
+* [https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft](https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt](https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt-a-0b326ebb-3bb7-4445-9c4b-cc37642cd7de#ref=rss)
+### strafe
 
-* [https://www.spiegel.de/sport/fussball/conference-league-sc-freiburg-kapitaen-christian-guenter-fordert-rote-karte-fuer-elfmeterpunkt-sabotage](https://www.spiegel.de/sport/fussball/conference-league-sc-freiburg-kapitaen-christian-guenter-fordert-rote-karte-fuer-elfmeterpunkt-sabotage-a-3054e28d-9f7d-4b45-b598-978cd0f5b52f#ref=rss)
-* [https://www.spiegel.de/politik/spd-krise-juso-chef-kritisiert-unklare-linie-der-partei](https://www.spiegel.de/politik/spd-krise-juso-chef-kritisiert-unklare-linie-der-partei-a-bfc20e85-6016-4163-9b58-c276fe22d876#ref=rss)
-### rote
+* [https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft](https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651#ref=rss)
+### rund
 
-* [https://www.spiegel.de/sport/fussball/conference-league-sc-freiburg-kapitaen-christian-guenter-fordert-rote-karte-fuer-elfmeterpunkt-sabotage](https://www.spiegel.de/sport/fussball/conference-league-sc-freiburg-kapitaen-christian-guenter-fordert-rote-karte-fuer-elfmeterpunkt-sabotage-a-3054e28d-9f7d-4b45-b598-978cd0f5b52f#ref=rss)
-* [https://www.spiegel.de/kultur/rot-gruen-rot-in-berlin-gegner-muessen-waehlern-bessere-angebote-machen-kommentar](https://www.spiegel.de/kultur/rot-gruen-rot-in-berlin-gegner-muessen-waehlern-bessere-angebote-machen-kommentar-a-602ebd72-1bb0-4cfe-b0dd-3d5f7a0b8f25#ref=rss)
-### spieler
+* [https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft](https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt](https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt-a-0b326ebb-3bb7-4445-9c4b-cc37642cd7de#ref=rss)
+### rügen
 
-* [https://www.spiegel.de/sport/fussball/conference-league-sc-freiburg-kapitaen-christian-guenter-fordert-rote-karte-fuer-elfmeterpunkt-sabotage](https://www.spiegel.de/sport/fussball/conference-league-sc-freiburg-kapitaen-christian-guenter-fordert-rote-karte-fuer-elfmeterpunkt-sabotage-a-3054e28d-9f7d-4b45-b598-978cd0f5b52f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt](https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt-a-05cb5c4f-7ca5-4464-819f-e67db62bad1f#ref=rss)
-### kunden
+* [https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt](https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt-a-0b326ebb-3bb7-4445-9c4b-cc37642cd7de#ref=rss)
+### tote
 
-* [https://www.spiegel.de/netzwelt/vodafone-klausel-unwirksam-121-000-kunden-fordern-ihr-geld-zurueck](https://www.spiegel.de/netzwelt/vodafone-klausel-unwirksam-121-000-kunden-fordern-ihr-geld-zurueck-a-055809e6-cc04-4e85-9e74-8dbc3f41882e#ref=rss)
-### neue
+* [https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt](https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt-a-0b326ebb-3bb7-4445-9c4b-cc37642cd7de#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-geschichte-wie-das-shopping-zum-kontaktsport-wurde](https://www.spiegel.de/wirtschaft/service/black-friday-geschichte-wie-das-shopping-zum-kontaktsport-wurde-a-f7053732-7607-4b87-9200-83a2582bac3b#ref=rss)
+### arbeitsminister
 
-* [https://www.spiegel.de/netzwelt/vodafone-klausel-unwirksam-121-000-kunden-fordern-ihr-geld-zurueck](https://www.spiegel.de/netzwelt/vodafone-klausel-unwirksam-121-000-kunden-fordern-ihr-geld-zurueck-a-055809e6-cc04-4e85-9e74-8dbc3f41882e#ref=rss)
-* [https://www.spiegel.de/effilee/kohl-kochen-neue-ideen-um-wintergemuese-lecker-zuzubereiten](https://www.spiegel.de/effilee/kohl-kochen-neue-ideen-um-wintergemuese-lecker-zuzubereiten-a-38b26985-b4cf-41e9-af0b-24ba4466325b#ref=rss)
-### heiligabend
+* [https://www.spiegel.de/politik/deutschland/rente-arbeitsminister-alexander-schweitzer-legt-gesetzentwurf-zur-rentenreform-vor](https://www.spiegel.de/politik/deutschland/rente-arbeitsminister-alexander-schweitzer-legt-gesetzentwurf-zur-rentenreform-vor-a-78332671-b923-4dc6-addc-399722e6d309#ref=rss)
+### gesetzentwurf
 
-* [https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-di](https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-diesen-tagen-urlaub-nehmen-a-1296909.html#ref=rss)
-### silvester
+* [https://www.spiegel.de/politik/deutschland/rente-arbeitsminister-alexander-schweitzer-legt-gesetzentwurf-zur-rentenreform-vor](https://www.spiegel.de/politik/deutschland/rente-arbeitsminister-alexander-schweitzer-legt-gesetzentwurf-zur-rentenreform-vor-a-78332671-b923-4dc6-addc-399722e6d309#ref=rss)
+### erika
 
-* [https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-di](https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-diesen-tagen-urlaub-nehmen-a-1296909.html#ref=rss)
-### diesen
+* [https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied](https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied-a-5fbe7280-d4cc-4fd9-b5ca-9eb94d6968ce#ref=rss)
+### heide
 
-* [https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-di](https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-diesen-tagen-urlaub-nehmen-a-1296909.html#ref=rss)
-### dennoch
+* [https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied](https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied-a-5fbe7280-d4cc-4fd9-b5ca-9eb94d6968ce#ref=rss)
+### weihnachtsmärkte
 
-* [https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-di](https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-diesen-tagen-urlaub-nehmen-a-1296909.html#ref=rss)
-* [https://www.spiegel.de/panorama/esslingen-weihnachtsbaum-sorgt-fuer-diskussionen-haesslich-oder-authentisch](https://www.spiegel.de/panorama/esslingen-weihnachtsbaum-sorgt-fuer-diskussionen-haesslich-oder-authentisch-a-cd9aaf24-e3c0-413e-854e-b9eb8b44f913#ref=rss)
-### gegner
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-deutschland-diese-sechs-sollen-zu-den-besten-europas-gehoeren](https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-deutschland-diese-sechs-sollen-zu-den-besten-europas-gehoeren-a-783bdd55-5f30-4671-8f8a-9e98cabd4570#ref=rss)
+### sauter
 
-* [https://www.spiegel.de/kultur/rot-gruen-rot-in-berlin-gegner-muessen-waehlern-bessere-angebote-machen-kommentar](https://www.spiegel.de/kultur/rot-gruen-rot-in-berlin-gegner-muessen-waehlern-bessere-angebote-machen-kommentar-a-602ebd72-1bb0-4cfe-b0dd-3d5f7a0b8f25#ref=rss)
-### deutschlands
+* [https://www.spiegel.de/wirtschaft/unternehmen/sauter-klavierbauer-stellt-insolvenzantrag](https://www.spiegel.de/wirtschaft/unternehmen/sauter-klavierbauer-stellt-insolvenzantrag-a-a3df64ca-76e0-4225-8baf-a40c22fb35f0#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/zugspitze-und-sauerland-starten-in-die-wintersaison](https://www.spiegel.de/panorama/zugspitze-und-sauerland-starten-in-die-wintersaison-a-17c338ee-7739-4e4e-ad61-b23d77ada0cf#ref=rss)
-* [https://www.spiegel.de/panorama/esslingen-weihnachtsbaum-sorgt-fuer-diskussionen-haesslich-oder-authentisch](https://www.spiegel.de/panorama/esslingen-weihnachtsbaum-sorgt-fuer-diskussionen-haesslich-oder-authentisch-a-cd9aaf24-e3c0-413e-854e-b9eb8b44f913#ref=rss)
-### laura
+* [https://www.spiegel.de/wirtschaft/unternehmen/sauter-klavierbauer-stellt-insolvenzantrag](https://www.spiegel.de/wirtschaft/unternehmen/sauter-klavierbauer-stellt-insolvenzantrag-a-a3df64ca-76e0-4225-8baf-a40c22fb35f0#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-vierfach-gott-ilia-malinin-bricht-kurzprogramm-weltrekord](https://www.spiegel.de/sport/wintersport/eiskunstlauf-vierfach-gott-ilia-malinin-bricht-kurzprogramm-weltrekord-a-f9728e6e-fcea-4733-afd9-cbfc9bc0732d#ref=rss)
+### koalition
 
-* [https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter](https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter-a-2cabc13a-1865-461b-a292-bb01f92e679b#ref=rss)
-### dahlmeier
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar-a-cdfd726b-3872-4e30-9f8b-dbc800c7dec5#ref=rss)
+### entschieden
 
-* [https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter](https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter-a-2cabc13a-1865-461b-a292-bb01f92e679b#ref=rss)
-### hall
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar-a-cdfd726b-3872-4e30-9f8b-dbc800c7dec5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche](https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche-a-1642d5d5-9ff0-4170-a85d-f224a9b9e54d#ref=rss)
+### geld
 
-* [https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter](https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter-a-2cabc13a-1865-461b-a292-bb01f92e679b#ref=rss)
-### of
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar-a-cdfd726b-3872-4e30-9f8b-dbc800c7dec5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst](https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst-a-a443d60d-a93e-4300-bae9-f4bcd3d9c995#ref=rss)
+### nacht
 
-* [https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter](https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter-a-2cabc13a-1865-461b-a292-bb01f92e679b#ref=rss)
-### fame
-
-* [https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter](https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter-a-2cabc13a-1865-461b-a292-bb01f92e679b#ref=rss)
-### vater
-
-* [https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter](https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter-a-2cabc13a-1865-461b-a292-bb01f92e679b#ref=rss)
-### andreas
-
-* [https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter](https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter-a-2cabc13a-1865-461b-a292-bb01f92e679b#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter](https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter-a-2cabc13a-1865-461b-a292-bb01f92e679b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gen-z-regelt-demonstrationen-wer-randalierte-nach-den-friedlichen-protesten](https://www.spiegel.de/panorama/justiz/gen-z-regelt-demonstrationen-wer-randalierte-nach-den-friedlichen-protesten-a-9543e0e3-9d28-4e89-9498-e9257dd10ba2#ref=rss)
-### umfragen
-
-* [https://www.spiegel.de/politik/zdf-politbarometer-afd-bleibt-vor-union-spd-legt-in-umfragen-zu](https://www.spiegel.de/politik/zdf-politbarometer-afd-bleibt-vor-union-spd-legt-in-umfragen-zu-a-5b5a576d-0fe0-49e4-96e5-ea0c6f468236#ref=rss)
-### krokodil
-
-* [https://www.spiegel.de/panorama/frankreich-rinderknochen-bleibt-krokodil-im-hals-stecken-feuerwehr-rueckt-an](https://www.spiegel.de/panorama/frankreich-rinderknochen-bleibt-krokodil-im-hals-stecken-feuerwehr-rueckt-an-a-d7a9b10e-d993-482d-a386-1469a5c6385c#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-minusgrade-und-glaette-am-ersten-adventswochenende](https://www.spiegel.de/panorama/wetter-minusgrade-und-glaette-am-ersten-adventswochenende-a-51f64aef-1c7a-47f6-b28e-2843340ef501#ref=rss)
 ### jamal
 
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt](https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt-a-05cb5c4f-7ca5-4464-819f-e67db62bad1f#ref=rss)
-### oliver
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus](https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus-a-ceac02f8-2a37-4cda-90dc-77d45c926197#ref=rss)
+### musiala
 
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt](https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt-a-05cb5c4f-7ca5-4464-819f-e67db62bad1f#ref=rss)
-### kahn
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus](https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus-a-ceac02f8-2a37-4cda-90dc-77d45c926197#ref=rss)
+### offensivstar
 
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt](https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt-a-05cb5c4f-7ca5-4464-819f-e67db62bad1f#ref=rss)
-### kritisiert
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus](https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus-a-ceac02f8-2a37-4cda-90dc-77d45c926197#ref=rss)
+### frankfurt
 
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt](https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt-a-05cb5c4f-7ca5-4464-819f-e67db62bad1f#ref=rss)
-* [https://www.spiegel.de/politik/spd-krise-juso-chef-kritisiert-unklare-linie-der-partei](https://www.spiegel.de/politik/spd-krise-juso-chef-kritisiert-unklare-linie-der-partei-a-bfc20e85-6016-4163-9b58-c276fe22d876#ref=rss)
-### eigenen
+* [https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche](https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche-a-1642d5d5-9ff0-4170-a85d-f224a9b9e54d#ref=rss)
+### tasche
 
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt](https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt-a-05cb5c4f-7ca5-4464-819f-e67db62bad1f#ref=rss)
-* [https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin](https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin-a-b7fbe958-8a80-470f-836b-43abbb359b0f#ref=rss)
-### geldanlage
+* [https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche](https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche-a-1642d5d5-9ff0-4170-a85d-f224a9b9e54d#ref=rss)
+### serbien
 
-* [https://www.spiegel.de/wirtschaft/geldanlage-es-kommt-auch-auf-die-zahl-hinter-dem-komma-an](https://www.spiegel.de/wirtschaft/geldanlage-es-kommt-auch-auf-die-zahl-hinter-dem-komma-an-a-c5e1071c-2310-4298-b4bb-c5aa6f4d64be#ref=rss)
-### jahr
+* [https://www.spiegel.de/ausland/serbien-studierendenliste-nominiert-chemieprofessor-als-praesidentschaftskandidat](https://www.spiegel.de/ausland/serbien-studierendenliste-nominiert-chemieprofessor-als-praesidentschaftskandidat-a-a6382c22-ad83-40da-ab1c-4e60b160df20#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/wirtschaft/geldanlage-es-kommt-auch-auf-die-zahl-hinter-dem-komma-an](https://www.spiegel.de/wirtschaft/geldanlage-es-kommt-auch-auf-die-zahl-hinter-dem-komma-an-a-c5e1071c-2310-4298-b4bb-c5aa6f4d64be#ref=rss)
-### regime
+* [https://www.spiegel.de/ausland/serbien-studierendenliste-nominiert-chemieprofessor-als-praesidentschaftskandidat](https://www.spiegel.de/ausland/serbien-studierendenliste-nominiert-chemieprofessor-als-praesidentschaftskandidat-a-a6382c22-ad83-40da-ab1c-4e60b160df20#ref=rss)
+* [https://www.spiegel.de/kultur/kino/the-further-mis-adventures-of-cliff-booth-regisseur-david-fincher-nutzt-ki-um-arbeit-echter-menschen-zu-verbessern](https://www.spiegel.de/kultur/kino/the-further-mis-adventures-of-cliff-booth-regisseur-david-fincher-nutzt-ki-um-arbeit-echter-menschen-zu-verbessern-a-181f66c5-058a-4c9d-955a-4e9491ecf049#ref=rss)
+### kind
 
-* [https://www.spiegel.de/politik/iran-kuwait-attacke-mit-zwei-toten-regime-weist-verantwortung-zurueck](https://www.spiegel.de/politik/iran-kuwait-attacke-mit-zwei-toten-regime-weist-verantwortung-zurueck-a-7ab9df93-311f-4b40-a72d-aea59f484358#ref=rss)
-### weist
+* [https://www.spiegel.de/sport/wintersport/biathlon-karriere-mit-kind-janina-hettich-walz-ueber-kosten-und-krankheitsangst](https://www.spiegel.de/sport/wintersport/biathlon-karriere-mit-kind-janina-hettich-walz-ueber-kosten-und-krankheitsangst-a-e52767c9-9570-4ee4-8444-09f2547b1a51#ref=rss)
+### janina
 
-* [https://www.spiegel.de/politik/iran-kuwait-attacke-mit-zwei-toten-regime-weist-verantwortung-zurueck](https://www.spiegel.de/politik/iran-kuwait-attacke-mit-zwei-toten-regime-weist-verantwortung-zurueck-a-7ab9df93-311f-4b40-a72d-aea59f484358#ref=rss)
-### weihnachtsbaum
+* [https://www.spiegel.de/sport/wintersport/biathlon-karriere-mit-kind-janina-hettich-walz-ueber-kosten-und-krankheitsangst](https://www.spiegel.de/sport/wintersport/biathlon-karriere-mit-kind-janina-hettich-walz-ueber-kosten-und-krankheitsangst-a-e52767c9-9570-4ee4-8444-09f2547b1a51#ref=rss)
+### hettichwalz
 
-* [https://www.spiegel.de/panorama/esslingen-weihnachtsbaum-sorgt-fuer-diskussionen-haesslich-oder-authentisch](https://www.spiegel.de/panorama/esslingen-weihnachtsbaum-sorgt-fuer-diskussionen-haesslich-oder-authentisch-a-cd9aaf24-e3c0-413e-854e-b9eb8b44f913#ref=rss)
-### begrüßt
+* [https://www.spiegel.de/sport/wintersport/biathlon-karriere-mit-kind-janina-hettich-walz-ueber-kosten-und-krankheitsangst](https://www.spiegel.de/sport/wintersport/biathlon-karriere-mit-kind-janina-hettich-walz-ueber-kosten-und-krankheitsangst-a-e52767c9-9570-4ee4-8444-09f2547b1a51#ref=rss)
+### klöckner
 
-* [https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin](https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin-a-b7fbe958-8a80-470f-836b-43abbb359b0f#ref=rss)
-### donald
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-fordert-heidi-reichinnek-auf-sich-von-linken-blockieren-zu-distanzieren](https://www.spiegel.de/politik/deutschland/julia-kloeckner-fordert-heidi-reichinnek-auf-sich-von-linken-blockieren-zu-distanzieren-a-fd433eed-c03a-4b17-a255-805857ed8319#ref=rss)
+### wo
 
-* [https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin](https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin-a-b7fbe958-8a80-470f-836b-43abbb359b0f#ref=rss)
-### kohl
+* [https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst](https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst-a-a443d60d-a93e-4300-bae9-f4bcd3d9c995#ref=rss)
+### fincher
 
-* [https://www.spiegel.de/effilee/kohl-kochen-neue-ideen-um-wintergemuese-lecker-zuzubereiten](https://www.spiegel.de/effilee/kohl-kochen-neue-ideen-um-wintergemuese-lecker-zuzubereiten-a-38b26985-b4cf-41e9-af0b-24ba4466325b#ref=rss)
-### wintergemüse
+* [https://www.spiegel.de/kultur/kino/the-further-mis-adventures-of-cliff-booth-regisseur-david-fincher-nutzt-ki-um-arbeit-echter-menschen-zu-verbessern](https://www.spiegel.de/kultur/kino/the-further-mis-adventures-of-cliff-booth-regisseur-david-fincher-nutzt-ki-um-arbeit-echter-menschen-zu-verbessern-a-181f66c5-058a-4c9d-955a-4e9491ecf049#ref=rss)
+### regisseur
 
-* [https://www.spiegel.de/effilee/kohl-kochen-neue-ideen-um-wintergemuese-lecker-zuzubereiten](https://www.spiegel.de/effilee/kohl-kochen-neue-ideen-um-wintergemuese-lecker-zuzubereiten-a-38b26985-b4cf-41e9-af0b-24ba4466325b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/the-further-mis-adventures-of-cliff-booth-regisseur-david-fincher-nutzt-ki-um-arbeit-echter-menschen-zu-verbessern](https://www.spiegel.de/kultur/kino/the-further-mis-adventures-of-cliff-booth-regisseur-david-fincher-nutzt-ki-um-arbeit-echter-menschen-zu-verbessern-a-181f66c5-058a-4c9d-955a-4e9491ecf049#ref=rss)
+### ilia
+
+* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-vierfach-gott-ilia-malinin-bricht-kurzprogramm-weltrekord](https://www.spiegel.de/sport/wintersport/eiskunstlauf-vierfach-gott-ilia-malinin-bricht-kurzprogramm-weltrekord-a-f9728e6e-fcea-4733-afd9-cbfc9bc0732d#ref=rss)
+### malinin
+
+* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-vierfach-gott-ilia-malinin-bricht-kurzprogramm-weltrekord](https://www.spiegel.de/sport/wintersport/eiskunstlauf-vierfach-gott-ilia-malinin-bricht-kurzprogramm-weltrekord-a-f9728e6e-fcea-4733-afd9-cbfc9bc0732d#ref=rss)
+### nanodrähte
+
+* [https://www.spiegel.de/wissenschaft/technik/mikrochips-nanodraehte-koennten-kupfer-in-chips-abloesen](https://www.spiegel.de/wissenschaft/technik/mikrochips-nanodraehte-koennten-kupfer-in-chips-abloesen-a-efaec81e-9074-4cb0-86d5-ff75f9308c4a#ref=rss)
+### chips
+
+* [https://www.spiegel.de/wissenschaft/technik/mikrochips-nanodraehte-koennten-kupfer-in-chips-abloesen](https://www.spiegel.de/wissenschaft/technik/mikrochips-nanodraehte-koennten-kupfer-in-chips-abloesen-a-efaec81e-9074-4cb0-86d5-ff75f9308c4a#ref=rss)
 
