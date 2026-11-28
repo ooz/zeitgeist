@@ -4,271 +4,385 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### 2027
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern](https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern-a-54e239f7-8c45-4797-97f5-6bc162a1b8b8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter](https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter-a-91843340-2c0e-44d1-8fa2-0f57775ad0cb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst](https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst-a-a443d60d-a93e-4300-bae9-f4bcd3d9c995#ref=rss)
-### david
-
-* [https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen](https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen-a-8b7abf64-47f4-45d3-86af-0747feaae99e#ref=rss)
-* [https://www.spiegel.de/kultur/kino/the-further-mis-adventures-of-cliff-booth-regisseur-david-fincher-nutzt-ki-um-arbeit-echter-menschen-zu-verbessern](https://www.spiegel.de/kultur/kino/the-further-mis-adventures-of-cliff-booth-regisseur-david-fincher-nutzt-ki-um-arbeit-echter-menschen-zu-verbessern-a-181f66c5-058a-4c9d-955a-4e9491ecf049#ref=rss)
-### haushalt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern](https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern-a-54e239f7-8c45-4797-97f5-6bc162a1b8b8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar-a-cdfd726b-3872-4e30-9f8b-dbc800c7dec5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst](https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst-a-a443d60d-a93e-4300-bae9-f4bcd3d9c995#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/kultur/musik/berlin-zwei-compact-journalisten-bei-youtube-awards-angegriffen](https://www.spiegel.de/kultur/musik/berlin-zwei-compact-journalisten-bei-youtube-awards-angegriffen-a-1eb51c98-15db-4c3f-b8fd-2e6dc52c64d9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt](https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt-a-0b326ebb-3bb7-4445-9c4b-cc37642cd7de#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus](https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus-a-ceac02f8-2a37-4cda-90dc-77d45c926197#ref=rss)
-### sohn
-
-* [https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann](https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann-a-3974399e-ec79-4064-bc29-60cb02a3b9e0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt](https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt-a-0b326ebb-3bb7-4445-9c4b-cc37642cd7de#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann](https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann-a-3974399e-ec79-4064-bc29-60cb02a3b9e0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft](https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651#ref=rss)
-### linke
-
-* [https://www.spiegel.de/politik/deutschland/gruene-und-linke-fordern-wegen-flug-transparenz-von-merz](https://www.spiegel.de/politik/deutschland/gruene-und-linke-fordern-wegen-flug-transparenz-von-merz-a-1ed0603a-a6b1-4dad-85c9-7d505a740195#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-fordert-heidi-reichinnek-auf-sich-von-linken-blockieren-zu-distanzieren](https://www.spiegel.de/politik/deutschland/julia-kloeckner-fordert-heidi-reichinnek-auf-sich-von-linken-blockieren-zu-distanzieren-a-fd433eed-c03a-4b17-a255-805857ed8319#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/gruene-und-linke-fordern-wegen-flug-transparenz-von-merz](https://www.spiegel.de/politik/deutschland/gruene-und-linke-fordern-wegen-flug-transparenz-von-merz-a-1ed0603a-a6b1-4dad-85c9-7d505a740195#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar-a-cdfd726b-3872-4e30-9f8b-dbc800c7dec5#ref=rss)
-### wetten
-
-* [https://www.spiegel.de/kultur/tv/wetten-dass-nina-chuba-und-herbert-groenemeyer-kommen-zu-ein-bagger-vielleicht-auch](https://www.spiegel.de/kultur/tv/wetten-dass-nina-chuba-und-herbert-groenemeyer-kommen-zu-ein-bagger-vielleicht-auch-a-62307cbf-090f-458c-8d5c-0e03ae9eb2a2#ref=rss)
-### erste
-
-* [https://www.spiegel.de/kultur/tv/wetten-dass-nina-chuba-und-herbert-groenemeyer-kommen-zu-ein-bagger-vielleicht-auch](https://www.spiegel.de/kultur/tv/wetten-dass-nina-chuba-und-herbert-groenemeyer-kommen-zu-ein-bagger-vielleicht-auch-a-62307cbf-090f-458c-8d5c-0e03ae9eb2a2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied](https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied-a-5fbe7280-d4cc-4fd9-b5ca-9eb94d6968ce#ref=rss)
-### benko
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft](https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651#ref=rss)
-### oberlandesgericht
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft](https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche](https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche-a-1642d5d5-9ff0-4170-a85d-f224a9b9e54d#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied](https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied-a-5fbe7280-d4cc-4fd9-b5ca-9eb94d6968ce#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-deutschland-diese-sechs-sollen-zu-den-besten-europas-gehoeren](https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-deutschland-diese-sechs-sollen-zu-den-besten-europas-gehoeren-a-783bdd55-5f30-4671-8f8a-9e98cabd4570#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/sauter-klavierbauer-stellt-insolvenzantrag](https://www.spiegel.de/wirtschaft/unternehmen/sauter-klavierbauer-stellt-insolvenzantrag-a-a3df64ca-76e0-4225-8baf-a40c22fb35f0#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst](https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst-a-a443d60d-a93e-4300-bae9-f4bcd3d9c995#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/black-friday-geschichte-wie-das-shopping-zum-kontaktsport-wurde](https://www.spiegel.de/wirtschaft/service/black-friday-geschichte-wie-das-shopping-zum-kontaktsport-wurde-a-f7053732-7607-4b87-9200-83a2582bac3b#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-vierfach-gott-ilia-malinin-bricht-kurzprogramm-weltrekord](https://www.spiegel.de/sport/wintersport/eiskunstlauf-vierfach-gott-ilia-malinin-bricht-kurzprogramm-weltrekord-a-f9728e6e-fcea-4733-afd9-cbfc9bc0732d#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/kultur/musik/berlin-zwei-compact-journalisten-bei-youtube-awards-angegriffen](https://www.spiegel.de/kultur/musik/berlin-zwei-compact-journalisten-bei-youtube-awards-angegriffen-a-1eb51c98-15db-4c3f-b8fd-2e6dc52c64d9#ref=rss)
-### youtubeawards
-
-* [https://www.spiegel.de/kultur/musik/berlin-zwei-compact-journalisten-bei-youtube-awards-angegriffen](https://www.spiegel.de/kultur/musik/berlin-zwei-compact-journalisten-bei-youtube-awards-angegriffen-a-1eb51c98-15db-4c3f-b8fd-2e6dc52c64d9#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-kritisiert-likud-von-benjamin-netanyahu-wegen-koalitionsgespraechen](https://www.spiegel.de/ausland/israel-gadi-eisenkot-kritisiert-likud-von-benjamin-netanyahu-wegen-koalitionsgespraechen-a-e8db144e-6357-4c68-8080-d87bf93c7a3c#ref=rss)
-### gadi
-
-* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-kritisiert-likud-von-benjamin-netanyahu-wegen-koalitionsgespraechen](https://www.spiegel.de/ausland/israel-gadi-eisenkot-kritisiert-likud-von-benjamin-netanyahu-wegen-koalitionsgespraechen-a-e8db144e-6357-4c68-8080-d87bf93c7a3c#ref=rss)
-### eisenkot
-
-* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-kritisiert-likud-von-benjamin-netanyahu-wegen-koalitionsgespraechen](https://www.spiegel.de/ausland/israel-gadi-eisenkot-kritisiert-likud-von-benjamin-netanyahu-wegen-koalitionsgespraechen-a-e8db144e-6357-4c68-8080-d87bf93c7a3c#ref=rss)
-### scheitern
-
-* [https://www.spiegel.de/ausland/israel-gadi-eisenkot-kritisiert-likud-von-benjamin-netanyahu-wegen-koalitionsgespraechen](https://www.spiegel.de/ausland/israel-gadi-eisenkot-kritisiert-likud-von-benjamin-netanyahu-wegen-koalitionsgespraechen-a-e8db144e-6357-4c68-8080-d87bf93c7a3c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/bilanz-der-klimakonferenz-in-antalya-war-das-ein-scheitern](https://www.spiegel.de/wissenschaft/bilanz-der-klimakonferenz-in-antalya-war-das-ein-scheitern-a-76f7b87f-327b-48cc-a183-e39a1309d8fb#ref=rss)
-### lisnard
-
-* [https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen](https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen-a-8b7abf64-47f4-45d3-86af-0747feaae99e#ref=rss)
-### marine
-
-* [https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen](https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen-a-8b7abf64-47f4-45d3-86af-0747feaae99e#ref=rss)
-### le
-
-* [https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen](https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen-a-8b7abf64-47f4-45d3-86af-0747feaae99e#ref=rss)
-### pen
-
-* [https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen](https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen-a-8b7abf64-47f4-45d3-86af-0747feaae99e#ref=rss)
-### el
-
-* [https://www.spiegel.de/ausland/el-nino-uno-warnt-vor-verschaerfung-der-globalen-hungerkrise](https://www.spiegel.de/ausland/el-nino-uno-warnt-vor-verschaerfung-der-globalen-hungerkrise-a-717ca946-4e3d-42d0-930c-0275b5ebecdb#ref=rss)
-### niño
-
-* [https://www.spiegel.de/ausland/el-nino-uno-warnt-vor-verschaerfung-der-globalen-hungerkrise](https://www.spiegel.de/ausland/el-nino-uno-warnt-vor-verschaerfung-der-globalen-hungerkrise-a-717ca946-4e3d-42d0-930c-0275b5ebecdb#ref=rss)
-### witten
-
-* [https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann](https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann-a-3974399e-ec79-4064-bc29-60cb02a3b9e0#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann](https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann-a-3974399e-ec79-4064-bc29-60cb02a3b9e0#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann](https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann-a-3974399e-ec79-4064-bc29-60cb02a3b9e0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/black-friday-geschichte-wie-das-shopping-zum-kontaktsport-wurde](https://www.spiegel.de/wirtschaft/service/black-friday-geschichte-wie-das-shopping-zum-kontaktsport-wurde-a-f7053732-7607-4b87-9200-83a2582bac3b#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann](https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann-a-3974399e-ec79-4064-bc29-60cb02a3b9e0#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/biathlon-karriere-mit-kind-janina-hettich-walz-ueber-kosten-und-krankheitsangst](https://www.spiegel.de/sport/wintersport/biathlon-karriere-mit-kind-janina-hettich-walz-ueber-kosten-und-krankheitsangst-a-e52767c9-9570-4ee4-8444-09f2547b1a51#ref=rss)
-### sap
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern](https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern-a-54e239f7-8c45-4797-97f5-6bc162a1b8b8#ref=rss)
-### wadephul
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern](https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern-a-54e239f7-8c45-4797-97f5-6bc162a1b8b8#ref=rss)
-### jason
-
-* [https://www.spiegel.de/kultur/jason-arday-kein-plagiator-universitaet-rehabilitiert-verstorbenen-professor](https://www.spiegel.de/kultur/jason-arday-kein-plagiator-universitaet-rehabilitiert-verstorbenen-professor-a-971aea4c-cb9c-4f50-9748-527f1a6e3b4e#ref=rss)
-### arday
-
-* [https://www.spiegel.de/kultur/jason-arday-kein-plagiator-universitaet-rehabilitiert-verstorbenen-professor](https://www.spiegel.de/kultur/jason-arday-kein-plagiator-universitaet-rehabilitiert-verstorbenen-professor-a-971aea4c-cb9c-4f50-9748-527f1a6e3b4e#ref=rss)
-### rehabilitiert
-
-* [https://www.spiegel.de/kultur/jason-arday-kein-plagiator-universitaet-rehabilitiert-verstorbenen-professor](https://www.spiegel.de/kultur/jason-arday-kein-plagiator-universitaet-rehabilitiert-verstorbenen-professor-a-971aea4c-cb9c-4f50-9748-527f1a6e3b4e#ref=rss)
-### professor
-
-* [https://www.spiegel.de/kultur/jason-arday-kein-plagiator-universitaet-rehabilitiert-verstorbenen-professor](https://www.spiegel.de/kultur/jason-arday-kein-plagiator-universitaet-rehabilitiert-verstorbenen-professor-a-971aea4c-cb9c-4f50-9748-527f1a6e3b4e#ref=rss)
-* [https://www.spiegel.de/ausland/serbien-studierendenliste-nominiert-chemieprofessor-als-praesidentschaftskandidat](https://www.spiegel.de/ausland/serbien-studierendenliste-nominiert-chemieprofessor-als-praesidentschaftskandidat-a-a6382c22-ad83-40da-ab1c-4e60b160df20#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/gruene-und-linke-fordern-wegen-flug-transparenz-von-merz](https://www.spiegel.de/politik/deutschland/gruene-und-linke-fordern-wegen-flug-transparenz-von-merz-a-1ed0603a-a6b1-4dad-85c9-7d505a740195#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar-a-cdfd726b-3872-4e30-9f8b-dbc800c7dec5#ref=rss)
-### politische
-
-* [https://www.spiegel.de/wissenschaft/bilanz-der-klimakonferenz-in-antalya-war-das-ein-scheitern](https://www.spiegel.de/wissenschaft/bilanz-der-klimakonferenz-in-antalya-war-das-ein-scheitern-a-76f7b87f-327b-48cc-a183-e39a1309d8fb#ref=rss)
-* [https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise](https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise-a-e8aad6e9-045d-4255-abdf-71bf6485fad5#ref=rss)
-### costa
-
-* [https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise](https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise-a-e8aad6e9-045d-4255-abdf-71bf6485fad5#ref=rss)
-### rica
-
-* [https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise](https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise-a-e8aad6e9-045d-4255-abdf-71bf6485fad5#ref=rss)
-### einreise
-
-* [https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise](https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise-a-e8aad6e9-045d-4255-abdf-71bf6485fad5#ref=rss)
-### schmetterling
-
-* [https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter](https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter-a-91843340-2c0e-44d1-8fa2-0f57775ad0cb#ref=rss)
-### jahres
-
-* [https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter](https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter-a-91843340-2c0e-44d1-8fa2-0f57775ad0cb#ref=rss)
-### dickkopffalter
-
-* [https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter](https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter-a-91843340-2c0e-44d1-8fa2-0f57775ad0cb#ref=rss)
-### rené
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft](https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft](https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt](https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt-a-0b326ebb-3bb7-4445-9c4b-cc37642cd7de#ref=rss)
-### strafe
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft](https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651#ref=rss)
-### rund
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft](https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt](https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt-a-0b326ebb-3bb7-4445-9c4b-cc37642cd7de#ref=rss)
-### rügen
-
-* [https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt](https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt-a-0b326ebb-3bb7-4445-9c4b-cc37642cd7de#ref=rss)
-### tote
-
-* [https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt](https://www.spiegel.de/panorama/justiz/ruegen-tote-robben-vor-der-insel-zwei-fischer-verurteilt-a-0b326ebb-3bb7-4445-9c4b-cc37642cd7de#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/black-friday-geschichte-wie-das-shopping-zum-kontaktsport-wurde](https://www.spiegel.de/wirtschaft/service/black-friday-geschichte-wie-das-shopping-zum-kontaktsport-wurde-a-f7053732-7607-4b87-9200-83a2582bac3b#ref=rss)
 ### arbeitsminister
 
-* [https://www.spiegel.de/politik/deutschland/rente-arbeitsminister-alexander-schweitzer-legt-gesetzentwurf-zur-rentenreform-vor](https://www.spiegel.de/politik/deutschland/rente-arbeitsminister-alexander-schweitzer-legt-gesetzentwurf-zur-rentenreform-vor-a-78332671-b923-4dc6-addc-399722e6d309#ref=rss)
-### gesetzentwurf
+* [https://www.spiegel.de/politik/rente-arbeitsminister-schweitzer-veraergert-union-mit-eigenem-rentenplan-die-stimmen](https://www.spiegel.de/politik/rente-arbeitsminister-schweitzer-veraergert-union-mit-eigenem-rentenplan-die-stimmen-a-55dea0b2-3d47-4c29-89c2-3bc1ad73b4f7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer](https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer-a-3d869da9-bc60-41fd-b33a-7cae1ee61e1d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer](https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer-a-778dd4a2-450d-4c05-8c27-9a8603ce449b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen](https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen-a-36aa8aa5-d8a0-4cd8-91a2-88d3fa5ed2e0#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/politik/deutschland/rente-arbeitsminister-alexander-schweitzer-legt-gesetzentwurf-zur-rentenreform-vor](https://www.spiegel.de/politik/deutschland/rente-arbeitsminister-alexander-schweitzer-legt-gesetzentwurf-zur-rentenreform-vor-a-78332671-b923-4dc6-addc-399722e6d309#ref=rss)
-### erika
+* [https://www.spiegel.de/sport/wintersport/biathlon-vanessa-voigt-hadert-nach-fehler-beim-saisonauftakt](https://www.spiegel.de/sport/wintersport/biathlon-vanessa-voigt-hadert-nach-fehler-beim-saisonauftakt-a-320daf04-dcd5-4dd1-bca6-4c6aa1a48280#ref=rss)
+* [https://www.spiegel.de/ausland/toxische-pommes-wie-lustig-ist-oesterreich-podcast](https://www.spiegel.de/ausland/toxische-pommes-wie-lustig-ist-oesterreich-podcast-a-bae722f1-a9fd-47fc-909b-e63d23d30936#ref=rss)
+* [https://www.spiegel.de/ausland/deutsche-in-oesterreich-was-auswanderer-wissen-muessen](https://www.spiegel.de/ausland/deutsche-in-oesterreich-was-auswanderer-wissen-muessen-a-f1b58a14-0eeb-4ee2-a82b-46a18cd18be5#ref=rss)
+* [https://www.spiegel.de/politik/deutsche-bahn-verkehrsminister-bilger-schliesst-reduzierung-von-zugverbindungen-nicht-aus](https://www.spiegel.de/politik/deutsche-bahn-verkehrsminister-bilger-schliesst-reduzierung-von-zugverbindungen-nicht-aus-a-93f03fc0-0a5b-4e7e-9499-9f9241fafc80#ref=rss)
+### schweitzer
 
-* [https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied](https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied-a-5fbe7280-d4cc-4fd9-b5ca-9eb94d6968ce#ref=rss)
-### heide
+* [https://www.spiegel.de/politik/rente-arbeitsminister-schweitzer-veraergert-union-mit-eigenem-rentenplan-die-stimmen](https://www.spiegel.de/politik/rente-arbeitsminister-schweitzer-veraergert-union-mit-eigenem-rentenplan-die-stimmen-a-55dea0b2-3d47-4c29-89c2-3bc1ad73b4f7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer](https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer-a-3d869da9-bc60-41fd-b33a-7cae1ee61e1d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer](https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer-a-778dd4a2-450d-4c05-8c27-9a8603ce449b#ref=rss)
+### wissen
 
-* [https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied](https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied-a-5fbe7280-d4cc-4fd9-b5ca-9eb94d6968ce#ref=rss)
-### weihnachtsmärkte
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/deutsche-in-oesterreich-was-auswanderer-wissen-muessen](https://www.spiegel.de/ausland/deutsche-in-oesterreich-was-auswanderer-wissen-muessen-a-f1b58a14-0eeb-4ee2-a82b-46a18cd18be5#ref=rss)
+* [https://www.spiegel.de/familie/schlaf-von-babys-wie-sie-ihrem-kind-helfen-gut-zu-schlafen](https://www.spiegel.de/familie/schlaf-von-babys-wie-sie-ihrem-kind-helfen-gut-zu-schlafen-a-58a9d47b-10bc-4199-a50d-a2e0b10b2b3c#ref=rss)
+### gut
 
-* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-deutschland-diese-sechs-sollen-zu-den-besten-europas-gehoeren](https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-deutschland-diese-sechs-sollen-zu-den-besten-europas-gehoeren-a-783bdd55-5f30-4671-8f8a-9e98cabd4570#ref=rss)
-### sauter
+* [https://www.spiegel.de/sport/wintersport/biathlon-vanessa-voigt-hadert-nach-fehler-beim-saisonauftakt](https://www.spiegel.de/sport/wintersport/biathlon-vanessa-voigt-hadert-nach-fehler-beim-saisonauftakt-a-320daf04-dcd5-4dd1-bca6-4c6aa1a48280#ref=rss)
+* [https://www.spiegel.de/familie/schlaf-von-babys-wie-sie-ihrem-kind-helfen-gut-zu-schlafen](https://www.spiegel.de/familie/schlaf-von-babys-wie-sie-ihrem-kind-helfen-gut-zu-schlafen-a-58a9d47b-10bc-4199-a50d-a2e0b10b2b3c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer](https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer-a-778dd4a2-450d-4c05-8c27-9a8603ce449b#ref=rss)
+### dutzende
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/sauter-klavierbauer-stellt-insolvenzantrag](https://www.spiegel.de/wirtschaft/unternehmen/sauter-klavierbauer-stellt-insolvenzantrag-a-a3df64ca-76e0-4225-8baf-a40c22fb35f0#ref=rss)
-### offenbar
+* [https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule](https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule-a-7f2d2901-cf4d-4ba0-83bd-bd580b72ce48#ref=rss)
+* [https://www.spiegel.de/ausland/el-nino-dutzende-tote-bei-ueberschwemmungen-in-peru-und-ecuador](https://www.spiegel.de/ausland/el-nino-dutzende-tote-bei-ueberschwemmungen-in-peru-und-ecuador-a-45c00905-e7c7-4e59-b5de-a9403f5ba93d#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/sauter-klavierbauer-stellt-insolvenzantrag](https://www.spiegel.de/wirtschaft/unternehmen/sauter-klavierbauer-stellt-insolvenzantrag-a-a3df64ca-76e0-4225-8baf-a40c22fb35f0#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-vierfach-gott-ilia-malinin-bricht-kurzprogramm-weltrekord](https://www.spiegel.de/sport/wintersport/eiskunstlauf-vierfach-gott-ilia-malinin-bricht-kurzprogramm-weltrekord-a-f9728e6e-fcea-4733-afd9-cbfc9bc0732d#ref=rss)
-### koalition
+* [https://www.spiegel.de/panorama/justiz/stuttgart-mann-mit-zwei-beilen-auf-weihnachtsmarkt-festgenommen](https://www.spiegel.de/panorama/justiz/stuttgart-mann-mit-zwei-beilen-auf-weihnachtsmarkt-festgenommen-a-df9b8b6e-3b1a-4d9e-8821-8749e02664f8#ref=rss)
+* [https://www.spiegel.de/familie/schlaf-von-babys-wie-sie-ihrem-kind-helfen-gut-zu-schlafen](https://www.spiegel.de/familie/schlaf-von-babys-wie-sie-ihrem-kind-helfen-gut-zu-schlafen-a-58a9d47b-10bc-4199-a50d-a2e0b10b2b3c#ref=rss)
+### el
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar-a-cdfd726b-3872-4e30-9f8b-dbc800c7dec5#ref=rss)
-### entschieden
+* [https://www.spiegel.de/sport/fussball/said-el-mala-beim-1-fc-koeln-warum-sich-der-20-jaehrige-als-fuehrungsspieler-sieht](https://www.spiegel.de/sport/fussball/said-el-mala-beim-1-fc-koeln-warum-sich-der-20-jaehrige-als-fuehrungsspieler-sieht-a-0e90e107-f188-4aa7-a073-61be5d2400ac#ref=rss)
+* [https://www.spiegel.de/ausland/el-nino-dutzende-tote-bei-ueberschwemmungen-in-peru-und-ecuador](https://www.spiegel.de/ausland/el-nino-dutzende-tote-bei-ueberschwemmungen-in-peru-und-ecuador-a-45c00905-e7c7-4e59-b5de-a9403f5ba93d#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar-a-cdfd726b-3872-4e30-9f8b-dbc800c7dec5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche](https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche-a-1642d5d5-9ff0-4170-a85d-f224a9b9e54d#ref=rss)
-### geld
+* [https://www.spiegel.de/ausland/toxische-pommes-wie-lustig-ist-oesterreich-podcast](https://www.spiegel.de/ausland/toxische-pommes-wie-lustig-ist-oesterreich-podcast-a-bae722f1-a9fd-47fc-909b-e63d23d30936#ref=rss)
+* [https://www.spiegel.de/ausland/deutsche-in-oesterreich-was-auswanderer-wissen-muessen](https://www.spiegel.de/ausland/deutsche-in-oesterreich-was-auswanderer-wissen-muessen-a-f1b58a14-0eeb-4ee2-a82b-46a18cd18be5#ref=rss)
+### union
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-koalition-die-regierung-muss-endlich-wieder-verantwortungsvoll-haushalten-kommentar-a-cdfd726b-3872-4e30-9f8b-dbc800c7dec5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst](https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst-a-a443d60d-a93e-4300-bae9-f4bcd3d9c995#ref=rss)
-### nacht
+* [https://www.spiegel.de/politik/rente-arbeitsminister-schweitzer-veraergert-union-mit-eigenem-rentenplan-die-stimmen](https://www.spiegel.de/politik/rente-arbeitsminister-schweitzer-veraergert-union-mit-eigenem-rentenplan-die-stimmen-a-55dea0b2-3d47-4c29-89c2-3bc1ad73b4f7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer](https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer-a-3d869da9-bc60-41fd-b33a-7cae1ee61e1d#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/panorama/wetter-minusgrade-und-glaette-am-ersten-adventswochenende](https://www.spiegel.de/panorama/wetter-minusgrade-und-glaette-am-ersten-adventswochenende-a-51f64aef-1c7a-47f6-b28e-2843340ef501#ref=rss)
-### jamal
+* [https://www.spiegel.de/politik/rente-arbeitsminister-schweitzer-veraergert-union-mit-eigenem-rentenplan-die-stimmen](https://www.spiegel.de/politik/rente-arbeitsminister-schweitzer-veraergert-union-mit-eigenem-rentenplan-die-stimmen-a-55dea0b2-3d47-4c29-89c2-3bc1ad73b4f7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer](https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer-a-3d869da9-bc60-41fd-b33a-7cae1ee61e1d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer](https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer-a-778dd4a2-450d-4c05-8c27-9a8603ce449b#ref=rss)
+### streit
 
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus](https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus-a-ceac02f8-2a37-4cda-90dc-77d45c926197#ref=rss)
-### musiala
+* [https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer](https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer-a-3d869da9-bc60-41fd-b33a-7cae1ee61e1d#ref=rss)
+* [https://www.spiegel.de/netzwelt/openai-ki-entwickler-wirft-apple-diebstahl-von-geschaeftsgeheimnissen-vor](https://www.spiegel.de/netzwelt/openai-ki-entwickler-wirft-apple-diebstahl-von-geschaeftsgeheimnissen-vor-a-97039215-746c-4cfc-9dc9-fa9c9adff1ef#ref=rss)
+* [https://www.spiegel.de/panorama/collien-fernandes-ermittlungen-auf-mallorca-werden-fortgesetzt](https://www.spiegel.de/panorama/collien-fernandes-ermittlungen-auf-mallorca-werden-fortgesetzt-a-38686b85-af44-44d0-ae38-d3d632769c75#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus](https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus-a-ceac02f8-2a37-4cda-90dc-77d45c926197#ref=rss)
-### offensivstar
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus](https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus-a-ceac02f8-2a37-4cda-90dc-77d45c926197#ref=rss)
-### frankfurt
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### sieben
 
-* [https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche](https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche-a-1642d5d5-9ff0-4170-a85d-f224a9b9e54d#ref=rss)
-### tasche
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule](https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule-a-7f2d2901-cf4d-4ba0-83bd-bd580b72ce48#ref=rss)
+### vanessa
 
-* [https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche](https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche-a-1642d5d5-9ff0-4170-a85d-f224a9b9e54d#ref=rss)
-### serbien
+* [https://www.spiegel.de/sport/wintersport/biathlon-vanessa-voigt-hadert-nach-fehler-beim-saisonauftakt](https://www.spiegel.de/sport/wintersport/biathlon-vanessa-voigt-hadert-nach-fehler-beim-saisonauftakt-a-320daf04-dcd5-4dd1-bca6-4c6aa1a48280#ref=rss)
+### voigt
 
-* [https://www.spiegel.de/ausland/serbien-studierendenliste-nominiert-chemieprofessor-als-praesidentschaftskandidat](https://www.spiegel.de/ausland/serbien-studierendenliste-nominiert-chemieprofessor-als-praesidentschaftskandidat-a-a6382c22-ad83-40da-ab1c-4e60b160df20#ref=rss)
-### neuen
+* [https://www.spiegel.de/sport/wintersport/biathlon-vanessa-voigt-hadert-nach-fehler-beim-saisonauftakt](https://www.spiegel.de/sport/wintersport/biathlon-vanessa-voigt-hadert-nach-fehler-beim-saisonauftakt-a-320daf04-dcd5-4dd1-bca6-4c6aa1a48280#ref=rss)
+### fehler
 
-* [https://www.spiegel.de/ausland/serbien-studierendenliste-nominiert-chemieprofessor-als-praesidentschaftskandidat](https://www.spiegel.de/ausland/serbien-studierendenliste-nominiert-chemieprofessor-als-praesidentschaftskandidat-a-a6382c22-ad83-40da-ab1c-4e60b160df20#ref=rss)
-* [https://www.spiegel.de/kultur/kino/the-further-mis-adventures-of-cliff-booth-regisseur-david-fincher-nutzt-ki-um-arbeit-echter-menschen-zu-verbessern](https://www.spiegel.de/kultur/kino/the-further-mis-adventures-of-cliff-booth-regisseur-david-fincher-nutzt-ki-um-arbeit-echter-menschen-zu-verbessern-a-181f66c5-058a-4c9d-955a-4e9491ecf049#ref=rss)
-### kind
+* [https://www.spiegel.de/sport/wintersport/biathlon-vanessa-voigt-hadert-nach-fehler-beim-saisonauftakt](https://www.spiegel.de/sport/wintersport/biathlon-vanessa-voigt-hadert-nach-fehler-beim-saisonauftakt-a-320daf04-dcd5-4dd1-bca6-4c6aa1a48280#ref=rss)
+### saisonauftakt
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-karriere-mit-kind-janina-hettich-walz-ueber-kosten-und-krankheitsangst](https://www.spiegel.de/sport/wintersport/biathlon-karriere-mit-kind-janina-hettich-walz-ueber-kosten-und-krankheitsangst-a-e52767c9-9570-4ee4-8444-09f2547b1a51#ref=rss)
-### janina
+* [https://www.spiegel.de/sport/wintersport/biathlon-vanessa-voigt-hadert-nach-fehler-beim-saisonauftakt](https://www.spiegel.de/sport/wintersport/biathlon-vanessa-voigt-hadert-nach-fehler-beim-saisonauftakt-a-320daf04-dcd5-4dd1-bca6-4c6aa1a48280#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-karriere-mit-kind-janina-hettich-walz-ueber-kosten-und-krankheitsangst](https://www.spiegel.de/sport/wintersport/biathlon-karriere-mit-kind-janina-hettich-walz-ueber-kosten-und-krankheitsangst-a-e52767c9-9570-4ee4-8444-09f2547b1a51#ref=rss)
-### hettichwalz
+* [https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule](https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule-a-7f2d2901-cf4d-4ba0-83bd-bd580b72ce48#ref=rss)
+* [https://www.spiegel.de/panorama/ibiza-gekenterter-tanker-mit-7000-tonnen-diesel-soll-in-hafen](https://www.spiegel.de/panorama/ibiza-gekenterter-tanker-mit-7000-tonnen-diesel-soll-in-hafen-a-56c647c6-c83b-4271-bec0-eb8543ca0cee#ref=rss)
+### tote
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-karriere-mit-kind-janina-hettich-walz-ueber-kosten-und-krankheitsangst](https://www.spiegel.de/sport/wintersport/biathlon-karriere-mit-kind-janina-hettich-walz-ueber-kosten-und-krankheitsangst-a-e52767c9-9570-4ee4-8444-09f2547b1a51#ref=rss)
-### klöckner
+* [https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule](https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule-a-7f2d2901-cf4d-4ba0-83bd-bd580b72ce48#ref=rss)
+* [https://www.spiegel.de/ausland/el-nino-dutzende-tote-bei-ueberschwemmungen-in-peru-und-ecuador](https://www.spiegel.de/ausland/el-nino-dutzende-tote-bei-ueberschwemmungen-in-peru-und-ecuador-a-45c00905-e7c7-4e59-b5de-a9403f5ba93d#ref=rss)
+### explosion
 
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-fordert-heidi-reichinnek-auf-sich-von-linken-blockieren-zu-distanzieren](https://www.spiegel.de/politik/deutschland/julia-kloeckner-fordert-heidi-reichinnek-auf-sich-von-linken-blockieren-zu-distanzieren-a-fd433eed-c03a-4b17-a255-805857ed8319#ref=rss)
-### wo
+* [https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule](https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule-a-7f2d2901-cf4d-4ba0-83bd-bd580b72ce48#ref=rss)
+### nahe
 
-* [https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst](https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst-a-a443d60d-a93e-4300-bae9-f4bcd3d9c995#ref=rss)
-### fincher
+* [https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule](https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule-a-7f2d2901-cf4d-4ba0-83bd-bd580b72ce48#ref=rss)
+### schule
 
-* [https://www.spiegel.de/kultur/kino/the-further-mis-adventures-of-cliff-booth-regisseur-david-fincher-nutzt-ki-um-arbeit-echter-menschen-zu-verbessern](https://www.spiegel.de/kultur/kino/the-further-mis-adventures-of-cliff-booth-regisseur-david-fincher-nutzt-ki-um-arbeit-echter-menschen-zu-verbessern-a-181f66c5-058a-4c9d-955a-4e9491ecf049#ref=rss)
-### regisseur
+* [https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule](https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule-a-7f2d2901-cf4d-4ba0-83bd-bd580b72ce48#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/kultur/kino/the-further-mis-adventures-of-cliff-booth-regisseur-david-fincher-nutzt-ki-um-arbeit-echter-menschen-zu-verbessern](https://www.spiegel.de/kultur/kino/the-further-mis-adventures-of-cliff-booth-regisseur-david-fincher-nutzt-ki-um-arbeit-echter-menschen-zu-verbessern-a-181f66c5-058a-4c9d-955a-4e9491ecf049#ref=rss)
-### ilia
+* [https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule](https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule-a-7f2d2901-cf4d-4ba0-83bd-bd580b72ce48#ref=rss)
+* [https://www.spiegel.de/familie/adhs-wie-sascha-lobo-mit-vier-kindern-seinen-alltag-meistert](https://www.spiegel.de/familie/adhs-wie-sascha-lobo-mit-vier-kindern-seinen-alltag-meistert-a-b72d0d53-4084-4794-81a1-f87bd377dd07#ref=rss)
+### leben
 
-* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-vierfach-gott-ilia-malinin-bricht-kurzprogramm-weltrekord](https://www.spiegel.de/sport/wintersport/eiskunstlauf-vierfach-gott-ilia-malinin-bricht-kurzprogramm-weltrekord-a-f9728e6e-fcea-4733-afd9-cbfc9bc0732d#ref=rss)
-### malinin
+* [https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule](https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule-a-7f2d2901-cf4d-4ba0-83bd-bd580b72ce48#ref=rss)
+* [https://www.spiegel.de/ausland/deutsche-in-oesterreich-was-auswanderer-wissen-muessen](https://www.spiegel.de/ausland/deutsche-in-oesterreich-was-auswanderer-wissen-muessen-a-f1b58a14-0eeb-4ee2-a82b-46a18cd18be5#ref=rss)
+### stuttgart
 
-* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-vierfach-gott-ilia-malinin-bricht-kurzprogramm-weltrekord](https://www.spiegel.de/sport/wintersport/eiskunstlauf-vierfach-gott-ilia-malinin-bricht-kurzprogramm-weltrekord-a-f9728e6e-fcea-4733-afd9-cbfc9bc0732d#ref=rss)
-### nanodrähte
+* [https://www.spiegel.de/panorama/justiz/stuttgart-mann-mit-zwei-beilen-auf-weihnachtsmarkt-festgenommen](https://www.spiegel.de/panorama/justiz/stuttgart-mann-mit-zwei-beilen-auf-weihnachtsmarkt-festgenommen-a-df9b8b6e-3b1a-4d9e-8821-8749e02664f8#ref=rss)
+### mann
 
-* [https://www.spiegel.de/wissenschaft/technik/mikrochips-nanodraehte-koennten-kupfer-in-chips-abloesen](https://www.spiegel.de/wissenschaft/technik/mikrochips-nanodraehte-koennten-kupfer-in-chips-abloesen-a-efaec81e-9074-4cb0-86d5-ff75f9308c4a#ref=rss)
-### chips
+* [https://www.spiegel.de/panorama/justiz/stuttgart-mann-mit-zwei-beilen-auf-weihnachtsmarkt-festgenommen](https://www.spiegel.de/panorama/justiz/stuttgart-mann-mit-zwei-beilen-auf-weihnachtsmarkt-festgenommen-a-df9b8b6e-3b1a-4d9e-8821-8749e02664f8#ref=rss)
+### beilen
 
-* [https://www.spiegel.de/wissenschaft/technik/mikrochips-nanodraehte-koennten-kupfer-in-chips-abloesen](https://www.spiegel.de/wissenschaft/technik/mikrochips-nanodraehte-koennten-kupfer-in-chips-abloesen-a-efaec81e-9074-4cb0-86d5-ff75f9308c4a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-mann-mit-zwei-beilen-auf-weihnachtsmarkt-festgenommen](https://www.spiegel.de/panorama/justiz/stuttgart-mann-mit-zwei-beilen-auf-weihnachtsmarkt-festgenommen-a-df9b8b6e-3b1a-4d9e-8821-8749e02664f8#ref=rss)
+### weihnachtsmarkt
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-mann-mit-zwei-beilen-auf-weihnachtsmarkt-festgenommen](https://www.spiegel.de/panorama/justiz/stuttgart-mann-mit-zwei-beilen-auf-weihnachtsmarkt-festgenommen-a-df9b8b6e-3b1a-4d9e-8821-8749e02664f8#ref=rss)
+### versucht
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-mann-mit-zwei-beilen-auf-weihnachtsmarkt-festgenommen](https://www.spiegel.de/panorama/justiz/stuttgart-mann-mit-zwei-beilen-auf-weihnachtsmarkt-festgenommen-a-df9b8b6e-3b1a-4d9e-8821-8749e02664f8#ref=rss)
+* [https://www.spiegel.de/kultur/tv/schroeder-vs-poschardt-wie-der-moderator-an-dem-krawall-autor-scheitert](https://www.spiegel.de/kultur/tv/schroeder-vs-poschardt-wie-der-moderator-an-dem-krawall-autor-scheitert-a-50afd16b-a7f4-4f71-a65c-6e53299b2c2d#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-mann-mit-zwei-beilen-auf-weihnachtsmarkt-festgenommen](https://www.spiegel.de/panorama/justiz/stuttgart-mann-mit-zwei-beilen-auf-weihnachtsmarkt-festgenommen-a-df9b8b6e-3b1a-4d9e-8821-8749e02664f8#ref=rss)
+* [https://www.spiegel.de/ausland/marine-le-pen-polizei-durchsuchte-wohnung-und-buero-von-ex-bueroleiter-ambroise-de-rancourt](https://www.spiegel.de/ausland/marine-le-pen-polizei-durchsuchte-wohnung-und-buero-von-ex-bueroleiter-ambroise-de-rancourt-a-7b23f3fc-b6b2-49c6-b056-5862cb945914#ref=rss)
+### saïd
+
+* [https://www.spiegel.de/sport/fussball/said-el-mala-beim-1-fc-koeln-warum-sich-der-20-jaehrige-als-fuehrungsspieler-sieht](https://www.spiegel.de/sport/fussball/said-el-mala-beim-1-fc-koeln-warum-sich-der-20-jaehrige-als-fuehrungsspieler-sieht-a-0e90e107-f188-4aa7-a073-61be5d2400ac#ref=rss)
+### mala
+
+* [https://www.spiegel.de/sport/fussball/said-el-mala-beim-1-fc-koeln-warum-sich-der-20-jaehrige-als-fuehrungsspieler-sieht](https://www.spiegel.de/sport/fussball/said-el-mala-beim-1-fc-koeln-warum-sich-der-20-jaehrige-als-fuehrungsspieler-sieht-a-0e90e107-f188-4aa7-a073-61be5d2400ac#ref=rss)
+### führungsspieler
+
+* [https://www.spiegel.de/sport/fussball/said-el-mala-beim-1-fc-koeln-warum-sich-der-20-jaehrige-als-fuehrungsspieler-sieht](https://www.spiegel.de/sport/fussball/said-el-mala-beim-1-fc-koeln-warum-sich-der-20-jaehrige-als-fuehrungsspieler-sieht-a-0e90e107-f188-4aa7-a073-61be5d2400ac#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/sport/fussball/said-el-mala-beim-1-fc-koeln-warum-sich-der-20-jaehrige-als-fuehrungsspieler-sieht](https://www.spiegel.de/sport/fussball/said-el-mala-beim-1-fc-koeln-warum-sich-der-20-jaehrige-als-fuehrungsspieler-sieht-a-0e90e107-f188-4aa7-a073-61be5d2400ac#ref=rss)
+### schere
+
+* [https://www.spiegel.de/panorama/middlesbrough-seniorin-kappt-weihnachtsbeleuchtung-mit-schere](https://www.spiegel.de/panorama/middlesbrough-seniorin-kappt-weihnachtsbeleuchtung-mit-schere-a-08437c04-fd14-4168-b567-e1fa7f5f0485#ref=rss)
+### alles
+
+* [https://www.spiegel.de/panorama/middlesbrough-seniorin-kappt-weihnachtsbeleuchtung-mit-schere](https://www.spiegel.de/panorama/middlesbrough-seniorin-kappt-weihnachtsbeleuchtung-mit-schere-a-08437c04-fd14-4168-b567-e1fa7f5f0485#ref=rss)
+* [https://www.spiegel.de/sport/parkinson-emma-cornthwaite-faehrt-auf-trike-1700-kilometer-durch-grossbritannien-und-frankreich](https://www.spiegel.de/sport/parkinson-emma-cornthwaite-faehrt-auf-trike-1700-kilometer-durch-grossbritannien-und-frankreich-a-b59ba1ca-baf3-449b-9548-c7be3d398b52#ref=rss)
+### überschwemmungen
+
+* [https://www.spiegel.de/ausland/el-nino-dutzende-tote-bei-ueberschwemmungen-in-peru-und-ecuador](https://www.spiegel.de/ausland/el-nino-dutzende-tote-bei-ueberschwemmungen-in-peru-und-ecuador-a-45c00905-e7c7-4e59-b5de-a9403f5ba93d#ref=rss)
+### peru
+
+* [https://www.spiegel.de/ausland/el-nino-dutzende-tote-bei-ueberschwemmungen-in-peru-und-ecuador](https://www.spiegel.de/ausland/el-nino-dutzende-tote-bei-ueberschwemmungen-in-peru-und-ecuador-a-45c00905-e7c7-4e59-b5de-a9403f5ba93d#ref=rss)
+### ecuador
+
+* [https://www.spiegel.de/ausland/el-nino-dutzende-tote-bei-ueberschwemmungen-in-peru-und-ecuador](https://www.spiegel.de/ausland/el-nino-dutzende-tote-bei-ueberschwemmungen-in-peru-und-ecuador-a-45c00905-e7c7-4e59-b5de-a9403f5ba93d#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/el-nino-dutzende-tote-bei-ueberschwemmungen-in-peru-und-ecuador](https://www.spiegel.de/ausland/el-nino-dutzende-tote-bei-ueberschwemmungen-in-peru-und-ecuador-a-45c00905-e7c7-4e59-b5de-a9403f5ba93d#ref=rss)
+* [https://www.spiegel.de/panorama/washington-d-c-flugzeug-streift-fluegel-anderer-maschine-auf-flughafen](https://www.spiegel.de/panorama/washington-d-c-flugzeug-streift-fluegel-anderer-maschine-auf-flughafen-a-79ba85e3-c793-4607-8c39-40e93375ecda#ref=rss)
+### toxische
+
+* [https://www.spiegel.de/ausland/toxische-pommes-wie-lustig-ist-oesterreich-podcast](https://www.spiegel.de/ausland/toxische-pommes-wie-lustig-ist-oesterreich-podcast-a-bae722f1-a9fd-47fc-909b-e63d23d30936#ref=rss)
+### pommes
+
+* [https://www.spiegel.de/ausland/toxische-pommes-wie-lustig-ist-oesterreich-podcast](https://www.spiegel.de/ausland/toxische-pommes-wie-lustig-ist-oesterreich-podcast-a-bae722f1-a9fd-47fc-909b-e63d23d30936#ref=rss)
+### emma
+
+* [https://www.spiegel.de/sport/parkinson-emma-cornthwaite-faehrt-auf-trike-1700-kilometer-durch-grossbritannien-und-frankreich](https://www.spiegel.de/sport/parkinson-emma-cornthwaite-faehrt-auf-trike-1700-kilometer-durch-grossbritannien-und-frankreich-a-b59ba1ca-baf3-449b-9548-c7be3d398b52#ref=rss)
+### cornthwaite
+
+* [https://www.spiegel.de/sport/parkinson-emma-cornthwaite-faehrt-auf-trike-1700-kilometer-durch-grossbritannien-und-frankreich](https://www.spiegel.de/sport/parkinson-emma-cornthwaite-faehrt-auf-trike-1700-kilometer-durch-grossbritannien-und-frankreich-a-b59ba1ca-baf3-449b-9548-c7be3d398b52#ref=rss)
+### trike
+
+* [https://www.spiegel.de/sport/parkinson-emma-cornthwaite-faehrt-auf-trike-1700-kilometer-durch-grossbritannien-und-frankreich](https://www.spiegel.de/sport/parkinson-emma-cornthwaite-faehrt-auf-trike-1700-kilometer-durch-grossbritannien-und-frankreich-a-b59ba1ca-baf3-449b-9548-c7be3d398b52#ref=rss)
+### bsw
+
+* [https://www.spiegel.de/politik/bsw-beraet-auf-parteitag-ueber-umgang-mit-afd-mitgruender-ernst-droht-erneut-mit-austritt](https://www.spiegel.de/politik/bsw-beraet-auf-parteitag-ueber-umgang-mit-afd-mitgruender-ernst-droht-erneut-mit-austritt-a-934e247e-3023-4da5-b420-f7c0d460efdc#ref=rss)
+### parteitag
+
+* [https://www.spiegel.de/politik/bsw-beraet-auf-parteitag-ueber-umgang-mit-afd-mitgruender-ernst-droht-erneut-mit-austritt](https://www.spiegel.de/politik/bsw-beraet-auf-parteitag-ueber-umgang-mit-afd-mitgruender-ernst-droht-erneut-mit-austritt-a-934e247e-3023-4da5-b420-f7c0d460efdc#ref=rss)
+### mitgründer
+
+* [https://www.spiegel.de/politik/bsw-beraet-auf-parteitag-ueber-umgang-mit-afd-mitgruender-ernst-droht-erneut-mit-austritt](https://www.spiegel.de/politik/bsw-beraet-auf-parteitag-ueber-umgang-mit-afd-mitgruender-ernst-droht-erneut-mit-austritt-a-934e247e-3023-4da5-b420-f7c0d460efdc#ref=rss)
+### ernst
+
+* [https://www.spiegel.de/politik/bsw-beraet-auf-parteitag-ueber-umgang-mit-afd-mitgruender-ernst-droht-erneut-mit-austritt](https://www.spiegel.de/politik/bsw-beraet-auf-parteitag-ueber-umgang-mit-afd-mitgruender-ernst-droht-erneut-mit-austritt-a-934e247e-3023-4da5-b420-f7c0d460efdc#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/politik/bsw-beraet-auf-parteitag-ueber-umgang-mit-afd-mitgruender-ernst-droht-erneut-mit-austritt](https://www.spiegel.de/politik/bsw-beraet-auf-parteitag-ueber-umgang-mit-afd-mitgruender-ernst-droht-erneut-mit-austritt-a-934e247e-3023-4da5-b420-f7c0d460efdc#ref=rss)
+* [https://www.spiegel.de/politik/deutsche-bahn-verkehrsminister-bilger-schliesst-reduzierung-von-zugverbindungen-nicht-aus](https://www.spiegel.de/politik/deutsche-bahn-verkehrsminister-bilger-schliesst-reduzierung-von-zugverbindungen-nicht-aus-a-93f03fc0-0a5b-4e7e-9499-9f9241fafc80#ref=rss)
+### bringt
+
+* [https://www.spiegel.de/politik/bsw-beraet-auf-parteitag-ueber-umgang-mit-afd-mitgruender-ernst-droht-erneut-mit-austritt](https://www.spiegel.de/politik/bsw-beraet-auf-parteitag-ueber-umgang-mit-afd-mitgruender-ernst-droht-erneut-mit-austritt-a-934e247e-3023-4da5-b420-f7c0d460efdc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer](https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer-a-3d869da9-bc60-41fd-b33a-7cae1ee61e1d#ref=rss)
+### michael
+
+* [https://www.spiegel.de/kultur/michael-hatzius-ist-tot-puppenspieler-und-comedian-mit-44-jahren-gestorben](https://www.spiegel.de/kultur/michael-hatzius-ist-tot-puppenspieler-und-comedian-mit-44-jahren-gestorben-a-ddfc894c-8769-4889-9982-ed630a21ed5f#ref=rss)
+### hatzius
+
+* [https://www.spiegel.de/kultur/michael-hatzius-ist-tot-puppenspieler-und-comedian-mit-44-jahren-gestorben](https://www.spiegel.de/kultur/michael-hatzius-ist-tot-puppenspieler-und-comedian-mit-44-jahren-gestorben-a-ddfc894c-8769-4889-9982-ed630a21ed5f#ref=rss)
+### puppenspieler
+
+* [https://www.spiegel.de/kultur/michael-hatzius-ist-tot-puppenspieler-und-comedian-mit-44-jahren-gestorben](https://www.spiegel.de/kultur/michael-hatzius-ist-tot-puppenspieler-und-comedian-mit-44-jahren-gestorben-a-ddfc894c-8769-4889-9982-ed630a21ed5f#ref=rss)
+### comedian
+
+* [https://www.spiegel.de/kultur/michael-hatzius-ist-tot-puppenspieler-und-comedian-mit-44-jahren-gestorben](https://www.spiegel.de/kultur/michael-hatzius-ist-tot-puppenspieler-und-comedian-mit-44-jahren-gestorben-a-ddfc894c-8769-4889-9982-ed630a21ed5f#ref=rss)
+### 44
+
+* [https://www.spiegel.de/kultur/michael-hatzius-ist-tot-puppenspieler-und-comedian-mit-44-jahren-gestorben](https://www.spiegel.de/kultur/michael-hatzius-ist-tot-puppenspieler-und-comedian-mit-44-jahren-gestorben-a-ddfc894c-8769-4889-9982-ed630a21ed5f#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/kultur/michael-hatzius-ist-tot-puppenspieler-und-comedian-mit-44-jahren-gestorben](https://www.spiegel.de/kultur/michael-hatzius-ist-tot-puppenspieler-und-comedian-mit-44-jahren-gestorben-a-ddfc894c-8769-4889-9982-ed630a21ed5f#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/michael-hatzius-ist-tot-puppenspieler-und-comedian-mit-44-jahren-gestorben](https://www.spiegel.de/kultur/michael-hatzius-ist-tot-puppenspieler-und-comedian-mit-44-jahren-gestorben-a-ddfc894c-8769-4889-9982-ed630a21ed5f#ref=rss)
+### le
+
+* [https://www.spiegel.de/ausland/marine-le-pen-polizei-durchsuchte-wohnung-und-buero-von-ex-bueroleiter-ambroise-de-rancourt](https://www.spiegel.de/ausland/marine-le-pen-polizei-durchsuchte-wohnung-und-buero-von-ex-bueroleiter-ambroise-de-rancourt-a-7b23f3fc-b6b2-49c6-b056-5862cb945914#ref=rss)
+### de
+
+* [https://www.spiegel.de/ausland/marine-le-pen-polizei-durchsuchte-wohnung-und-buero-von-ex-bueroleiter-ambroise-de-rancourt](https://www.spiegel.de/ausland/marine-le-pen-polizei-durchsuchte-wohnung-und-buero-von-ex-bueroleiter-ambroise-de-rancourt-a-7b23f3fc-b6b2-49c6-b056-5862cb945914#ref=rss)
+### rancourt
+
+* [https://www.spiegel.de/ausland/marine-le-pen-polizei-durchsuchte-wohnung-und-buero-von-ex-bueroleiter-ambroise-de-rancourt](https://www.spiegel.de/ausland/marine-le-pen-polizei-durchsuchte-wohnung-und-buero-von-ex-bueroleiter-ambroise-de-rancourt-a-7b23f3fc-b6b2-49c6-b056-5862cb945914#ref=rss)
+### spitzt
+
+* [https://www.spiegel.de/ausland/marine-le-pen-polizei-durchsuchte-wohnung-und-buero-von-ex-bueroleiter-ambroise-de-rancourt](https://www.spiegel.de/ausland/marine-le-pen-polizei-durchsuchte-wohnung-und-buero-von-ex-bueroleiter-ambroise-de-rancourt-a-7b23f3fc-b6b2-49c6-b056-5862cb945914#ref=rss)
+* [https://www.spiegel.de/netzwelt/openai-ki-entwickler-wirft-apple-diebstahl-von-geschaeftsgeheimnissen-vor](https://www.spiegel.de/netzwelt/openai-ki-entwickler-wirft-apple-diebstahl-von-geschaeftsgeheimnissen-vor-a-97039215-746c-4cfc-9dc9-fa9c9adff1ef#ref=rss)
+### wolf
+
+* [https://www.spiegel.de/kultur/wolf-biermann-ilko-sascha-kowalczuk-ueber-tagebuch-debatte](https://www.spiegel.de/kultur/wolf-biermann-ilko-sascha-kowalczuk-ueber-tagebuch-debatte-a-4f7f2b82-ce4f-4c17-91ba-31063924fb23#ref=rss)
+### biermann
+
+* [https://www.spiegel.de/kultur/wolf-biermann-ilko-sascha-kowalczuk-ueber-tagebuch-debatte](https://www.spiegel.de/kultur/wolf-biermann-ilko-sascha-kowalczuk-ueber-tagebuch-debatte-a-4f7f2b82-ce4f-4c17-91ba-31063924fb23#ref=rss)
+### ilkosascha
+
+* [https://www.spiegel.de/kultur/wolf-biermann-ilko-sascha-kowalczuk-ueber-tagebuch-debatte](https://www.spiegel.de/kultur/wolf-biermann-ilko-sascha-kowalczuk-ueber-tagebuch-debatte-a-4f7f2b82-ce4f-4c17-91ba-31063924fb23#ref=rss)
+### kowalczuk
+
+* [https://www.spiegel.de/kultur/wolf-biermann-ilko-sascha-kowalczuk-ueber-tagebuch-debatte](https://www.spiegel.de/kultur/wolf-biermann-ilko-sascha-kowalczuk-ueber-tagebuch-debatte-a-4f7f2b82-ce4f-4c17-91ba-31063924fb23#ref=rss)
+### läuft
+
+* [https://www.spiegel.de/kultur/wolf-biermann-ilko-sascha-kowalczuk-ueber-tagebuch-debatte](https://www.spiegel.de/kultur/wolf-biermann-ilko-sascha-kowalczuk-ueber-tagebuch-debatte-a-4f7f2b82-ce4f-4c17-91ba-31063924fb23#ref=rss)
+* [https://www.spiegel.de/panorama/washington-d-c-flugzeug-streift-fluegel-anderer-maschine-auf-flughafen](https://www.spiegel.de/panorama/washington-d-c-flugzeug-streift-fluegel-anderer-maschine-auf-flughafen-a-79ba85e3-c793-4607-8c39-40e93375ecda#ref=rss)
+### rente
+
+* [https://www.spiegel.de/politik/rente-arbeitsminister-schweitzer-veraergert-union-mit-eigenem-rentenplan-die-stimmen](https://www.spiegel.de/politik/rente-arbeitsminister-schweitzer-veraergert-union-mit-eigenem-rentenplan-die-stimmen-a-55dea0b2-3d47-4c29-89c2-3bc1ad73b4f7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer](https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer-a-778dd4a2-450d-4c05-8c27-9a8603ce449b#ref=rss)
+### verärgert
+
+* [https://www.spiegel.de/politik/rente-arbeitsminister-schweitzer-veraergert-union-mit-eigenem-rentenplan-die-stimmen](https://www.spiegel.de/politik/rente-arbeitsminister-schweitzer-veraergert-union-mit-eigenem-rentenplan-die-stimmen-a-55dea0b2-3d47-4c29-89c2-3bc1ad73b4f7#ref=rss)
+### rentenplan
+
+* [https://www.spiegel.de/politik/rente-arbeitsminister-schweitzer-veraergert-union-mit-eigenem-rentenplan-die-stimmen](https://www.spiegel.de/politik/rente-arbeitsminister-schweitzer-veraergert-union-mit-eigenem-rentenplan-die-stimmen-a-55dea0b2-3d47-4c29-89c2-3bc1ad73b4f7#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/politik/deutsche-bahn-verkehrsminister-bilger-schliesst-reduzierung-von-zugverbindungen-nicht-aus](https://www.spiegel.de/politik/deutsche-bahn-verkehrsminister-bilger-schliesst-reduzierung-von-zugverbindungen-nicht-aus-a-93f03fc0-0a5b-4e7e-9499-9f9241fafc80#ref=rss)
+### verkehrsminister
+
+* [https://www.spiegel.de/politik/deutsche-bahn-verkehrsminister-bilger-schliesst-reduzierung-von-zugverbindungen-nicht-aus](https://www.spiegel.de/politik/deutsche-bahn-verkehrsminister-bilger-schliesst-reduzierung-von-zugverbindungen-nicht-aus-a-93f03fc0-0a5b-4e7e-9499-9f9241fafc80#ref=rss)
+### bilger
+
+* [https://www.spiegel.de/politik/deutsche-bahn-verkehrsminister-bilger-schliesst-reduzierung-von-zugverbindungen-nicht-aus](https://www.spiegel.de/politik/deutsche-bahn-verkehrsminister-bilger-schliesst-reduzierung-von-zugverbindungen-nicht-aus-a-93f03fc0-0a5b-4e7e-9499-9f9241fafc80#ref=rss)
+### viele
+
+* [https://www.spiegel.de/politik/deutsche-bahn-verkehrsminister-bilger-schliesst-reduzierung-von-zugverbindungen-nicht-aus](https://www.spiegel.de/politik/deutsche-bahn-verkehrsminister-bilger-schliesst-reduzierung-von-zugverbindungen-nicht-aus-a-93f03fc0-0a5b-4e7e-9499-9f9241fafc80#ref=rss)
+* [https://www.spiegel.de/familie/schlaf-von-babys-wie-sie-ihrem-kind-helfen-gut-zu-schlafen](https://www.spiegel.de/familie/schlaf-von-babys-wie-sie-ihrem-kind-helfen-gut-zu-schlafen-a-58a9d47b-10bc-4199-a50d-a2e0b10b2b3c#ref=rss)
+### spät
+
+* [https://www.spiegel.de/politik/deutsche-bahn-verkehrsminister-bilger-schliesst-reduzierung-von-zugverbindungen-nicht-aus](https://www.spiegel.de/politik/deutsche-bahn-verkehrsminister-bilger-schliesst-reduzierung-von-zugverbindungen-nicht-aus-a-93f03fc0-0a5b-4e7e-9499-9f9241fafc80#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach-a-94a30fb6-786d-46b3-af87-43a7c6ed1511#ref=rss)
+### pedro
+
+* [https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer](https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer-a-3d869da9-bc60-41fd-b33a-7cae1ee61e1d#ref=rss)
+### sánchez
+
+* [https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer](https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer-a-3d869da9-bc60-41fd-b33a-7cae1ee61e1d#ref=rss)
+### unter
+
+* [https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer](https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer-a-3d869da9-bc60-41fd-b33a-7cae1ee61e1d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen](https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen-a-36aa8aa5-d8a0-4cd8-91a2-88d3fa5ed2e0#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer](https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer-a-3d869da9-bc60-41fd-b33a-7cae1ee61e1d#ref=rss)
+* [https://www.spiegel.de/panorama/collien-fernandes-ermittlungen-auf-mallorca-werden-fortgesetzt](https://www.spiegel.de/panorama/collien-fernandes-ermittlungen-auf-mallorca-werden-fortgesetzt-a-38686b85-af44-44d0-ae38-d3d632769c75#ref=rss)
+### washington
+
+* [https://www.spiegel.de/panorama/washington-d-c-flugzeug-streift-fluegel-anderer-maschine-auf-flughafen](https://www.spiegel.de/panorama/washington-d-c-flugzeug-streift-fluegel-anderer-maschine-auf-flughafen-a-79ba85e3-c793-4607-8c39-40e93375ecda#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/washington-d-c-flugzeug-streift-fluegel-anderer-maschine-auf-flughafen](https://www.spiegel.de/panorama/washington-d-c-flugzeug-streift-fluegel-anderer-maschine-auf-flughafen-a-79ba85e3-c793-4607-8c39-40e93375ecda#ref=rss)
+* [https://www.spiegel.de/panorama/ibiza-gekenterter-tanker-mit-7000-tonnen-diesel-soll-in-hafen](https://www.spiegel.de/panorama/ibiza-gekenterter-tanker-mit-7000-tonnen-diesel-soll-in-hafen-a-56c647c6-c83b-4271-bec0-eb8543ca0cee#ref=rss)
+### familie
+
+* [https://www.spiegel.de/panorama/washington-d-c-flugzeug-streift-fluegel-anderer-maschine-auf-flughafen](https://www.spiegel.de/panorama/washington-d-c-flugzeug-streift-fluegel-anderer-maschine-auf-flughafen-a-79ba85e3-c793-4607-8c39-40e93375ecda#ref=rss)
+* [https://www.spiegel.de/familie/adhs-wie-sascha-lobo-mit-vier-kindern-seinen-alltag-meistert](https://www.spiegel.de/familie/adhs-wie-sascha-lobo-mit-vier-kindern-seinen-alltag-meistert-a-b72d0d53-4084-4794-81a1-f87bd377dd07#ref=rss)
+### babys
+
+* [https://www.spiegel.de/familie/schlaf-von-babys-wie-sie-ihrem-kind-helfen-gut-zu-schlafen](https://www.spiegel.de/familie/schlaf-von-babys-wie-sie-ihrem-kind-helfen-gut-zu-schlafen-a-58a9d47b-10bc-4199-a50d-a2e0b10b2b3c#ref=rss)
+### helfen
+
+* [https://www.spiegel.de/familie/schlaf-von-babys-wie-sie-ihrem-kind-helfen-gut-zu-schlafen](https://www.spiegel.de/familie/schlaf-von-babys-wie-sie-ihrem-kind-helfen-gut-zu-schlafen-a-58a9d47b-10bc-4199-a50d-a2e0b10b2b3c#ref=rss)
+### adhs
+
+* [https://www.spiegel.de/familie/adhs-wie-sascha-lobo-mit-vier-kindern-seinen-alltag-meistert](https://www.spiegel.de/familie/adhs-wie-sascha-lobo-mit-vier-kindern-seinen-alltag-meistert-a-b72d0d53-4084-4794-81a1-f87bd377dd07#ref=rss)
+### vier
+
+* [https://www.spiegel.de/familie/adhs-wie-sascha-lobo-mit-vier-kindern-seinen-alltag-meistert](https://www.spiegel.de/familie/adhs-wie-sascha-lobo-mit-vier-kindern-seinen-alltag-meistert-a-b72d0d53-4084-4794-81a1-f87bd377dd07#ref=rss)
+### ich
+
+* [https://www.spiegel.de/familie/adhs-wie-sascha-lobo-mit-vier-kindern-seinen-alltag-meistert](https://www.spiegel.de/familie/adhs-wie-sascha-lobo-mit-vier-kindern-seinen-alltag-meistert-a-b72d0d53-4084-4794-81a1-f87bd377dd07#ref=rss)
+### knds
+
+* [https://www.spiegel.de/politik/knds-100-000-bewerbungen-beim-panzerbauer-in-deutschland](https://www.spiegel.de/politik/knds-100-000-bewerbungen-beim-panzerbauer-in-deutschland-a-bc7b0841-5fb8-4e89-8570-b120045f55b1#ref=rss)
+### ende
+
+* [https://www.spiegel.de/politik/knds-100-000-bewerbungen-beim-panzerbauer-in-deutschland](https://www.spiegel.de/politik/knds-100-000-bewerbungen-beim-panzerbauer-in-deutschland-a-bc7b0841-5fb8-4e89-8570-b120045f55b1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach-a-94a30fb6-786d-46b3-af87-43a7c6ed1511#ref=rss)
+### rhein
+
+* [https://www.spiegel.de/wissenschaft/umweltminister-schneider-plaediert-fuer-umbau-des-rheins](https://www.spiegel.de/wissenschaft/umweltminister-schneider-plaediert-fuer-umbau-des-rheins-a-9bdd3f7a-fe7f-4e4c-ac53-c978f80c2fba#ref=rss)
+### umweltminister
+
+* [https://www.spiegel.de/wissenschaft/umweltminister-schneider-plaediert-fuer-umbau-des-rheins](https://www.spiegel.de/wissenschaft/umweltminister-schneider-plaediert-fuer-umbau-des-rheins-a-9bdd3f7a-fe7f-4e4c-ac53-c978f80c2fba#ref=rss)
+### carsten
+
+* [https://www.spiegel.de/wissenschaft/umweltminister-schneider-plaediert-fuer-umbau-des-rheins](https://www.spiegel.de/wissenschaft/umweltminister-schneider-plaediert-fuer-umbau-des-rheins-a-9bdd3f7a-fe7f-4e4c-ac53-c978f80c2fba#ref=rss)
+### schneider
+
+* [https://www.spiegel.de/wissenschaft/umweltminister-schneider-plaediert-fuer-umbau-des-rheins](https://www.spiegel.de/wissenschaft/umweltminister-schneider-plaediert-fuer-umbau-des-rheins-a-9bdd3f7a-fe7f-4e4c-ac53-c978f80c2fba#ref=rss)
+### niclas
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach-a-94a30fb6-786d-46b3-af87-43a7c6ed1511#ref=rss)
+### füllkrug
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach-a-94a30fb6-786d-46b3-af87-43a7c6ed1511#ref=rss)
+### werder
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach-a-94a30fb6-786d-46b3-af87-43a7c6ed1511#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach-a-94a30fb6-786d-46b3-af87-43a7c6ed1511#ref=rss)
+### gladbach
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach-a-94a30fb6-786d-46b3-af87-43a7c6ed1511#ref=rss)
+### openai
+
+* [https://www.spiegel.de/netzwelt/openai-ki-entwickler-wirft-apple-diebstahl-von-geschaeftsgeheimnissen-vor](https://www.spiegel.de/netzwelt/openai-ki-entwickler-wirft-apple-diebstahl-von-geschaeftsgeheimnissen-vor-a-97039215-746c-4cfc-9dc9-fa9c9adff1ef#ref=rss)
+### kientwickler
+
+* [https://www.spiegel.de/netzwelt/openai-ki-entwickler-wirft-apple-diebstahl-von-geschaeftsgeheimnissen-vor](https://www.spiegel.de/netzwelt/openai-ki-entwickler-wirft-apple-diebstahl-von-geschaeftsgeheimnissen-vor-a-97039215-746c-4cfc-9dc9-fa9c9adff1ef#ref=rss)
+### apple
+
+* [https://www.spiegel.de/netzwelt/openai-ki-entwickler-wirft-apple-diebstahl-von-geschaeftsgeheimnissen-vor](https://www.spiegel.de/netzwelt/openai-ki-entwickler-wirft-apple-diebstahl-von-geschaeftsgeheimnissen-vor-a-97039215-746c-4cfc-9dc9-fa9c9adff1ef#ref=rss)
+### collien
+
+* [https://www.spiegel.de/panorama/collien-fernandes-ermittlungen-auf-mallorca-werden-fortgesetzt](https://www.spiegel.de/panorama/collien-fernandes-ermittlungen-auf-mallorca-werden-fortgesetzt-a-38686b85-af44-44d0-ae38-d3d632769c75#ref=rss)
+### fernandes
+
+* [https://www.spiegel.de/panorama/collien-fernandes-ermittlungen-auf-mallorca-werden-fortgesetzt](https://www.spiegel.de/panorama/collien-fernandes-ermittlungen-auf-mallorca-werden-fortgesetzt-a-38686b85-af44-44d0-ae38-d3d632769c75#ref=rss)
+### ibiza
+
+* [https://www.spiegel.de/panorama/ibiza-gekenterter-tanker-mit-7000-tonnen-diesel-soll-in-hafen](https://www.spiegel.de/panorama/ibiza-gekenterter-tanker-mit-7000-tonnen-diesel-soll-in-hafen-a-56c647c6-c83b-4271-bec0-eb8543ca0cee#ref=rss)
+### tanker
+
+* [https://www.spiegel.de/panorama/ibiza-gekenterter-tanker-mit-7000-tonnen-diesel-soll-in-hafen](https://www.spiegel.de/panorama/ibiza-gekenterter-tanker-mit-7000-tonnen-diesel-soll-in-hafen-a-56c647c6-c83b-4271-bec0-eb8543ca0cee#ref=rss)
+### diesel
+
+* [https://www.spiegel.de/panorama/ibiza-gekenterter-tanker-mit-7000-tonnen-diesel-soll-in-hafen](https://www.spiegel.de/panorama/ibiza-gekenterter-tanker-mit-7000-tonnen-diesel-soll-in-hafen-a-56c647c6-c83b-4271-bec0-eb8543ca0cee#ref=rss)
+### geschleppt
+
+* [https://www.spiegel.de/panorama/ibiza-gekenterter-tanker-mit-7000-tonnen-diesel-soll-in-hafen](https://www.spiegel.de/panorama/ibiza-gekenterter-tanker-mit-7000-tonnen-diesel-soll-in-hafen-a-56c647c6-c83b-4271-bec0-eb8543ca0cee#ref=rss)
+### robert
+
+* [https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen](https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen-a-36aa8aa5-d8a0-4cd8-91a2-88d3fa5ed2e0#ref=rss)
+### reich
+
+* [https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen](https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen-a-36aa8aa5-d8a0-4cd8-91a2-88d3fa5ed2e0#ref=rss)
+### macht
+
+* [https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen](https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen-a-36aa8aa5-d8a0-4cd8-91a2-88d3fa5ed2e0#ref=rss)
+### brechen
+
+* [https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen](https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen-a-36aa8aa5-d8a0-4cd8-91a2-88d3fa5ed2e0#ref=rss)
 
